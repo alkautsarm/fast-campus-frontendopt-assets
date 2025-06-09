@@ -20,7 +20,7 @@
       "pricePerNight": 360,
       "rating": 4.87,
       "reviews": 71,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
     },
     "hotel2": {
       "id": "h002",
@@ -42,7 +42,7 @@
       "pricePerNight": 425,
       "rating": 4.92,
       "reviews": 89,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
     },
     "hotel3": {
       "id": "h003",
@@ -64,7 +64,7 @@
       "pricePerNight": 290,
       "rating": 4.78,
       "reviews": 63,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
     },
     "hotel4": {
       "id": "h004",
@@ -86,7 +86,7 @@
       "pricePerNight": 315,
       "rating": 4.85,
       "reviews": 92,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
     },
     "hotel5": {
       "id": "h005",
@@ -108,7 +108,7 @@
       "pricePerNight": 520,
       "rating": 4.95,
       "reviews": 124,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
     },
     "hotel6": {
       "id": "h006",
@@ -130,7 +130,7 @@
       "pricePerNight": 445,
       "rating": 4.89,
       "reviews": 156,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
     },
     "hotel7": {
       "id": "h007",
@@ -152,7 +152,7 @@
       "pricePerNight": 275,
       "rating": 4.72,
       "reviews": 98,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
     },
     "hotel8": {
       "id": "h008",
@@ -174,7 +174,7 @@
       "pricePerNight": 390,
       "rating": 4.83,
       "reviews": 77,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
     },
     "hotel9": {
       "id": "h009",
@@ -196,7 +196,7 @@
       "pricePerNight": 480,
       "rating": 4.91,
       "reviews": 84,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/crew--3can7MahTA-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
     },
     "hotel10": {
       "id": "h010",
@@ -218,7 +218,7 @@
       "pricePerNight": 340,
       "rating": 4.76,
       "reviews": 65,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
     },
     "hotel11": {
       "id": "h011",
@@ -240,7 +240,7 @@
       "pricePerNight": 295,
       "rating": 4.79,
       "reviews": 88,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
     },
     "hotel12": {
       "id": "h012",
@@ -262,7 +262,7 @@
       "pricePerNight": 410,
       "rating": 4.88,
       "reviews": 93,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
     },
     "hotel13": {
       "id": "h013",
@@ -284,7 +284,7 @@
       "pricePerNight": 380,
       "rating": 4.86,
       "reviews": 79,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
     },
     "hotel14": {
       "id": "h014",
@@ -306,7 +306,7 @@
       "pricePerNight": 330,
       "rating": 4.81,
       "reviews": 102,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
     },
     "hotel15": {
       "id": "h015",
@@ -328,7 +328,7 @@
       "pricePerNight": 420,
       "rating": 4.93,
       "reviews": 115,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
     },
     "hotel16": {
       "id": "h016",
@@ -350,7 +350,7 @@
       "pricePerNight": 285,
       "rating": 4.75,
       "reviews": 87,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
     },
     "hotel17": {
       "id": "h017",
@@ -372,7 +372,7 @@
       "pricePerNight": 375,
       "rating": 4.84,
       "reviews": 94,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
     },
     "hotel18": {
       "id": "h018",
@@ -394,7 +394,7 @@
       "pricePerNight": 310,
       "rating": 4.77,
       "reviews": 68,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
     },
     "hotel19": {
       "id": "h019",
@@ -416,7 +416,7 @@
       "pricePerNight": 395,
       "rating": 4.90,
       "reviews": 108,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
     },
     "hotel20": {
       "id": "h020",
@@ -438,7 +438,7 @@
       "pricePerNight": 435,
       "rating": 4.94,
       "reviews": 132,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
     },
     "hotel21": {
       "id": "h021",
@@ -460,7 +460,7 @@
       "pricePerNight": 490,
       "rating": 4.96,
       "reviews": 145,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
     },
     "hotel22": {
       "id": "h022",
@@ -482,7 +482,7 @@
       "pricePerNight": 460,
       "rating": 4.88,
       "reviews": 96,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
     },
     "hotel23": {
       "id": "h023",
@@ -504,7 +504,7 @@
       "pricePerNight": 550,
       "rating": 4.97,
       "reviews": 167,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
     },
     "hotel24": {
       "id": "h024",
@@ -526,7 +526,7 @@
       "pricePerNight": 405,
       "rating": 4.82,
       "reviews": 73,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
     },
     "hotel25": {
       "id": "h025",
@@ -548,7 +548,7 @@
       "pricePerNight": 385,
       "rating": 4.80,
       "reviews": 85,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
     },
     "hotel26": {
       "id": "h026",
@@ -570,7 +570,7 @@
       "pricePerNight": 320,
       "rating": 4.74,
       "reviews": 69,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
     },
     "hotel27": {
       "id": "h027",
@@ -592,7 +592,7 @@
       "pricePerNight": 450,
       "rating": 4.89,
       "reviews": 76,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
     },
     "hotel28": {
       "id": "h028",
@@ -614,7 +614,7 @@
       "pricePerNight": 320,
       "rating": 4.82,
       "reviews": 54,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
     },
     "hotel29": {
       "id": "h029",
@@ -636,7 +636,7 @@
       "pricePerNight": 375,
       "rating": 4.85,
       "reviews": 89,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
     },
     "hotel30": {
       "id": "h030",
@@ -658,7 +658,7 @@
       "pricePerNight": 390,
       "rating": 4.91,
       "reviews": 112,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
     },
     "hotel31": {
       "id": "h031",
@@ -680,7 +680,7 @@
       "pricePerNight": 520,
       "rating": 4.93,
       "reviews": 98,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
     },
     "hotel32": {
       "id": "h032",
@@ -702,7 +702,7 @@
       "pricePerNight": 280,
       "rating": 4.76,
       "reviews": 65,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
     },
     "hotel33": {
       "id": "h033",
@@ -724,7 +724,7 @@
       "pricePerNight": 580,
       "rating": 4.95,
       "reviews": 134,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
     },
     "hotel34": {
       "id": "h034",
@@ -746,7 +746,7 @@
       "pricePerNight": 410,
       "rating": 4.87,
       "reviews": 87,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
     },
     "hotel35": {
       "id": "h035",
@@ -768,7 +768,7 @@
       "pricePerNight": 420,
       "rating": 4.88,
       "reviews": 95,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/crew--3can7MahTA-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
     },
     "hotel36": {
       "id": "h036",
@@ -790,7 +790,7 @@
       "pricePerNight": 480,
       "rating": 4.92,
       "reviews": 101,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
     },
     "hotel37": {
       "id": "h037",
@@ -812,7 +812,7 @@
       "pricePerNight": 350,
       "rating": 4.79,
       "reviews": 72,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
     },
     "hotel38": {
       "id": "h038",
@@ -834,7 +834,7 @@
       "pricePerNight": 510,
       "rating": 4.94,
       "reviews": 118,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
     },
     "hotel39": {
       "id": "h039",
@@ -856,7 +856,7 @@
       "pricePerNight": 380,
       "rating": 4.83,
       "reviews": 91,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
     },
     "hotel40": {
       "id": "h040",
@@ -878,7 +878,7 @@
       "pricePerNight": 395,
       "rating": 4.86,
       "reviews": 83,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
     },
     "hotel41": {
       "id": "h041",
@@ -900,7 +900,7 @@
       "pricePerNight": 465,
       "rating": 4.91,
       "reviews": 106,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
     },
     "hotel42": {
       "id": "h042",
@@ -922,7 +922,7 @@
       "pricePerNight": 310,
       "rating": 4.77,
       "reviews": 58,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
     },
     "hotel43": {
       "id": "h043",
@@ -944,7 +944,7 @@
       "pricePerNight": 525,
       "rating": 4.93,
       "reviews": 127,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
     },
     "hotel44": {
       "id": "h044",
@@ -966,7 +966,7 @@
       "pricePerNight": 425,
       "rating": 4.89,
       "reviews": 92,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
     },
     "hotel45": {
       "id": "h045",
@@ -988,7 +988,7 @@
       "pricePerNight": 360,
       "rating": 4.81,
       "reviews": 74,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
     },
     "hotel46": {
       "id": "h046",
@@ -1010,7 +1010,7 @@
       "pricePerNight": 495,
       "rating": 4.94,
       "reviews": 115,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
     },
     "hotel47": {
       "id": "h047",
@@ -1032,7 +1032,7 @@
       "pricePerNight": 295,
       "rating": 4.75,
       "reviews": 67,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
     },
     "hotel48": {
       "id": "h048",
@@ -1054,7 +1054,7 @@
       "pricePerNight": 560,
       "rating": 4.96,
       "reviews": 142,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
     },
     "hotel49": {
       "id": "h049",
@@ -1076,7 +1076,7 @@
       "pricePerNight": 445,
       "rating": 4.88,
       "reviews": 103,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
     },
     "hotel50": {
       "id": "h050",
@@ -1098,7 +1098,7 @@
       "pricePerNight": 385,
       "rating": 4.84,
       "reviews": 79,
-      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fastcampus-hotel-booking/refs/heads/feat/explore-page/assets/compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
     }
   }
 }

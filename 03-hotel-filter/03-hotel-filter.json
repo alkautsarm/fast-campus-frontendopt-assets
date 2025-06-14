@@ -414,7 +414,7 @@
         "end": "2025-08-06"
       },
       "pricePerNight": 395,
-      "rating": 4.90,
+      "rating": 4.9,
       "reviews": 108,
       "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
     },
@@ -546,7 +546,7 @@
         "end": "2025-08-27"
       },
       "pricePerNight": 385,
-      "rating": 4.80,
+      "rating": 4.8,
       "reviews": 85,
       "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
     },
@@ -1099,6 +1099,3350 @@
       "rating": 4.84,
       "reviews": 79,
       "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+    }
+  },
+  "hotels_type": {
+    "1": {
+      "hotel1": {
+        "id": "h001",
+        "name": "Island City Views",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,669",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-02",
+          "end": "2025-06-07"
+        },
+        "pricePerNight": 360,
+        "rating": 4.87,
+        "reviews": 71,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      },
+      "hotel4": {
+        "id": "h004",
+        "name": "Tropical Villa",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,680",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-06-08",
+          "end": "2025-06-13"
+        },
+        "pricePerNight": 315,
+        "rating": 4.85,
+        "reviews": 92,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      },
+      "hotel9": {
+        "id": "h009",
+        "name": "Private Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,695",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-06-25",
+          "end": "2025-06-30"
+        },
+        "pricePerNight": 480,
+        "rating": 4.91,
+        "reviews": 84,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      },
+      "hotel14": {
+        "id": "h014",
+        "name": "Island Bungalow",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,720",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-07-12",
+          "end": "2025-07-17"
+        },
+        "pricePerNight": 330,
+        "rating": 4.81,
+        "reviews": 102,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      },
+      "hotel19": {
+        "id": "h019",
+        "name": "Luxury Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,695",
+        "capacity": 7,
+        "availableDates": {
+          "start": "2025-08-01",
+          "end": "2025-08-06"
+        },
+        "pricePerNight": 395,
+        "rating": 4.9,
+        "reviews": 108,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      },
+      "hotel21": {
+        "id": "h021",
+        "name": "Tech Island Hub",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,715",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-08",
+          "end": "2025-08-13"
+        },
+        "pricePerNight": 490,
+        "rating": 4.96,
+        "reviews": 145,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      },
+      "hotel24": {
+        "id": "h024",
+        "name": "Tropical Haven",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-18",
+          "end": "2025-08-23"
+        },
+        "pricePerNight": 405,
+        "rating": 4.82,
+        "reviews": 73,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      },
+      "hotel27": {
+        "id": "h027",
+        "name": "Island Sanctuary",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,640",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-06-03",
+          "end": "2025-06-08"
+        },
+        "pricePerNight": 450,
+        "rating": 4.89,
+        "reviews": 76,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      },
+      "hotel33": {
+        "id": "h033",
+        "name": "Paradise Villa",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,710",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-06-28",
+          "end": "2025-07-03"
+        },
+        "pricePerNight": 580,
+        "rating": 4.95,
+        "reviews": 134,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      },
+      "hotel37": {
+        "id": "h037",
+        "name": "Business Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,645",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-13",
+          "end": "2025-07-18"
+        },
+        "pricePerNight": 350,
+        "rating": 4.79,
+        "reviews": 72,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      },
+      "hotel38": {
+        "id": "h038",
+        "name": "Dreamy Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,730",
+        "capacity": 7,
+        "availableDates": {
+          "start": "2025-07-16",
+          "end": "2025-07-21"
+        },
+        "pricePerNight": 510,
+        "rating": 4.94,
+        "reviews": 118,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      },
+      "hotel43": {
+        "id": "h043",
+        "name": "Island Oasis",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-02",
+          "end": "2025-08-07"
+        },
+        "pricePerNight": 525,
+        "rating": 4.93,
+        "reviews": 127,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      },
+      "hotel48": {
+        "id": "h048",
+        "name": "Sunset Paradise",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,690",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-08-19",
+          "end": "2025-08-24"
+        },
+        "pricePerNight": 560,
+        "rating": 4.96,
+        "reviews": 142,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      }
+    },
+    "2": {
+      "hotel2": {
+        "id": "h002",
+        "name": "Mountain Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,700",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-10",
+          "end": "2025-06-15"
+        },
+        "pricePerNight": 425,
+        "rating": 4.92,
+        "reviews": 89,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      },
+      "hotel6": {
+        "id": "h006",
+        "name": "Modern Cabin Loft",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,675",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-12",
+          "end": "2025-06-17"
+        },
+        "pricePerNight": 445,
+        "rating": 4.89,
+        "reviews": 156,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      },
+      "hotel7": {
+        "id": "h007",
+        "name": "Wooden Hideaway",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,660",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-06-20",
+          "end": "2025-06-25"
+        },
+        "pricePerNight": 275,
+        "rating": 4.72,
+        "reviews": 98,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      },
+      "hotel12": {
+        "id": "h012",
+        "name": "Log Cabin Retreat",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-05",
+          "end": "2025-07-10"
+        },
+        "pricePerNight": 410,
+        "rating": 4.88,
+        "reviews": 93,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      },
+      "hotel17": {
+        "id": "h017",
+        "name": "Forest Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,678",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-22",
+          "end": "2025-07-27"
+        },
+        "pricePerNight": 375,
+        "rating": 4.84,
+        "reviews": 94,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      },
+      "hotel22": {
+        "id": "h022",
+        "name": "Lakeside Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,725",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-12",
+          "end": "2025-08-17"
+        },
+        "pricePerNight": 460,
+        "rating": 4.88,
+        "reviews": 96,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      },
+      "hotel26": {
+        "id": "h026",
+        "name": "Nomad Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,735",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-25",
+          "end": "2025-08-30"
+        },
+        "pricePerNight": 320,
+        "rating": 4.74,
+        "reviews": 69,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      },
+      "hotel30": {
+        "id": "h030",
+        "name": "Alpine Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,720",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-06-17",
+          "end": "2025-06-22"
+        },
+        "pricePerNight": 390,
+        "rating": 4.91,
+        "reviews": 112,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      },
+      "hotel34": {
+        "id": "h034",
+        "name": "Forest Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,690",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-02",
+          "end": "2025-07-07"
+        },
+        "pricePerNight": 410,
+        "rating": 4.87,
+        "reviews": 87,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      },
+      "hotel39": {
+        "id": "h039",
+        "name": "Woodland Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,695",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-07-19",
+          "end": "2025-07-24"
+        },
+        "pricePerNight": 380,
+        "rating": 4.83,
+        "reviews": 91,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      },
+      "hotel42": {
+        "id": "h042",
+        "name": "Innovation Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,660",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-29",
+          "end": "2025-08-03"
+        },
+        "pricePerNight": 310,
+        "rating": 4.77,
+        "reviews": 58,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      },
+      "hotel44": {
+        "id": "h044",
+        "name": "Mountain Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,670",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-06",
+          "end": "2025-08-11"
+        },
+        "pricePerNight": 425,
+        "rating": 4.89,
+        "reviews": 92,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      },
+      "hotel49": {
+        "id": "h049",
+        "name": "Riverside Lodge",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,705",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-23",
+          "end": "2025-08-28"
+        },
+        "pricePerNight": 445,
+        "rating": 4.88,
+        "reviews": 103,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      }
+    },
+    "3": {
+      "hotel3": {
+        "id": "h003",
+        "name": "Mystical Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,645",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-05",
+          "end": "2025-06-10"
+        },
+        "pricePerNight": 290,
+        "rating": 4.78,
+        "reviews": 63,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      },
+      "hotel8": {
+        "id": "h008",
+        "name": "Cave Sanctuary",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,665",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-18",
+          "end": "2025-06-23"
+        },
+        "pricePerNight": 390,
+        "rating": 4.83,
+        "reviews": 77,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      },
+      "hotel11": {
+        "id": "h011",
+        "name": "Executive Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,730",
+        "capacity": 1,
+        "availableDates": {
+          "start": "2025-07-01",
+          "end": "2025-07-06"
+        },
+        "pricePerNight": 295,
+        "rating": 4.79,
+        "reviews": 88,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      },
+      "hotel13": {
+        "id": "h013",
+        "name": "Ancient Chambers",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,750",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-08",
+          "end": "2025-07-13"
+        },
+        "pricePerNight": 380,
+        "rating": 4.86,
+        "reviews": 79,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      },
+      "hotel18": {
+        "id": "h018",
+        "name": "Limestone Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,740",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-25",
+          "end": "2025-07-30"
+        },
+        "pricePerNight": 310,
+        "rating": 4.77,
+        "reviews": 68,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      },
+      "hotel23": {
+        "id": "h023",
+        "name": "Crystal Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,760",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-15",
+          "end": "2025-08-20"
+        },
+        "pricePerNight": 550,
+        "rating": 4.97,
+        "reviews": 167,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      },
+      "hotel28": {
+        "id": "h028",
+        "name": "Minimal Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,650",
+        "capacity": 1,
+        "availableDates": {
+          "start": "2025-06-11",
+          "end": "2025-06-16"
+        },
+        "pricePerNight": 320,
+        "rating": 4.82,
+        "reviews": 54,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      },
+      "hotel29": {
+        "id": "h029",
+        "name": "Enchanted Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,680",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-14",
+          "end": "2025-06-19"
+        },
+        "pricePerNight": 375,
+        "rating": 4.85,
+        "reviews": 89,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      },
+      "hotel35": {
+        "id": "h035",
+        "name": "Cave Palace",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,745",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-06",
+          "end": "2025-07-11"
+        },
+        "pricePerNight": 420,
+        "rating": 4.88,
+        "reviews": 95,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      },
+      "hotel40": {
+        "id": "h040",
+        "name": "Cave Chambers",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,755",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-23",
+          "end": "2025-07-28"
+        },
+        "pricePerNight": 395,
+        "rating": 4.86,
+        "reviews": 83,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      },
+      "hotel45": {
+        "id": "h045",
+        "name": "Sacred Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,750",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-09",
+          "end": "2025-08-14"
+        },
+        "pricePerNight": 360,
+        "rating": 4.81,
+        "reviews": 74,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      },
+      "hotel47": {
+        "id": "h047",
+        "name": "Pro Cave Hub",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,740",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-08-16",
+          "end": "2025-08-21"
+        },
+        "pricePerNight": 295,
+        "rating": 4.75,
+        "reviews": 67,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      },
+      "hotel50": {
+        "id": "h050",
+        "name": "Cave Fortress",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,765",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-26",
+          "end": "2025-08-31"
+        },
+        "pricePerNight": 385,
+        "rating": 4.84,
+        "reviews": 79,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      }
+    },
+    "4": {
+      "hotel5": {
+        "id": "h005",
+        "name": "Arctic Ice Hotel",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,690",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-15",
+          "end": "2025-06-20"
+        },
+        "pricePerNight": 520,
+        "rating": 4.95,
+        "reviews": 124,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      },
+      "hotel10": {
+        "id": "h010",
+        "name": "Arctic Igloo",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,710",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-22",
+          "end": "2025-06-27"
+        },
+        "pricePerNight": 340,
+        "rating": 4.76,
+        "reviews": 65,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      },
+      "hotel15": {
+        "id": "h015",
+        "name": "Aurora Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,670",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-15",
+          "end": "2025-07-20"
+        },
+        "pricePerNight": 420,
+        "rating": 4.93,
+        "reviews": 115,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      },
+      "hotel16": {
+        "id": "h016",
+        "name": "Arctic Studio",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,655",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-18",
+          "end": "2025-07-23"
+        },
+        "pricePerNight": 285,
+        "rating": 4.75,
+        "reviews": 87,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      },
+      "hotel20": {
+        "id": "h020",
+        "name": "Snow Palace",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,705",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-08-05",
+          "end": "2025-08-10"
+        },
+        "pricePerNight": 435,
+        "rating": 4.94,
+        "reviews": 132,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      },
+      "hotel25": {
+        "id": "h025",
+        "name": "Wilderness Camp",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,675",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-22",
+          "end": "2025-08-27"
+        },
+        "pricePerNight": 385,
+        "rating": 4.8,
+        "reviews": 85,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
+      },
+      "hotel31": {
+        "id": "h031",
+        "name": "Polar Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,700",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-21",
+          "end": "2025-06-26"
+        },
+        "pricePerNight": 520,
+        "rating": 4.93,
+        "reviews": 98,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      },
+      "hotel32": {
+        "id": "h032",
+        "name": "Arctic Space",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,665",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-24",
+          "end": "2025-06-29"
+        },
+        "pricePerNight": 280,
+        "rating": 4.76,
+        "reviews": 65,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      },
+      "hotel36": {
+        "id": "h036",
+        "name": "Arctic Dome",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,675",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-09",
+          "end": "2025-07-14"
+        },
+        "pricePerNight": 480,
+        "rating": 4.92,
+        "reviews": 101,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      },
+      "hotel41": {
+        "id": "h041",
+        "name": "Tundra Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,715",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-26",
+          "end": "2025-07-31"
+        },
+        "pricePerNight": 465,
+        "rating": 4.91,
+        "reviews": 106,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      },
+      "hotel46": {
+        "id": "h046",
+        "name": "Crystal Palace",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,680",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-08-13",
+          "end": "2025-08-18"
+        },
+        "pricePerNight": 495,
+        "rating": 4.94,
+        "reviews": 115,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      }
+    }
+  },
+  "hotels_location": {
+    "1": {
+      "hotel1": {
+        "id": "h001",
+        "name": "Island City Views",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,669",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-02",
+          "end": "2025-06-07"
+        },
+        "pricePerNight": 360,
+        "rating": 4.87,
+        "reviews": 71,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      },
+      "hotel4": {
+        "id": "h004",
+        "name": "Tropical Villa",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,680",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-06-08",
+          "end": "2025-06-13"
+        },
+        "pricePerNight": 315,
+        "rating": 4.85,
+        "reviews": 92,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      },
+      "hotel7": {
+        "id": "h007",
+        "name": "Wooden Hideaway",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,660",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-06-20",
+          "end": "2025-06-25"
+        },
+        "pricePerNight": 275,
+        "rating": 4.72,
+        "reviews": 98,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      },
+      "hotel10": {
+        "id": "h010",
+        "name": "Arctic Igloo",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,710",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-22",
+          "end": "2025-06-27"
+        },
+        "pricePerNight": 340,
+        "rating": 4.76,
+        "reviews": 65,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      },
+      "hotel13": {
+        "id": "h013",
+        "name": "Ancient Chambers",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,750",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-08",
+          "end": "2025-07-13"
+        },
+        "pricePerNight": 380,
+        "rating": 4.86,
+        "reviews": 79,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      },
+      "hotel16": {
+        "id": "h016",
+        "name": "Arctic Studio",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,655",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-18",
+          "end": "2025-07-23"
+        },
+        "pricePerNight": 285,
+        "rating": 4.75,
+        "reviews": 87,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      },
+      "hotel19": {
+        "id": "h019",
+        "name": "Luxury Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,695",
+        "capacity": 7,
+        "availableDates": {
+          "start": "2025-08-01",
+          "end": "2025-08-06"
+        },
+        "pricePerNight": 395,
+        "rating": 4.9,
+        "reviews": 108,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      },
+      "hotel22": {
+        "id": "h022",
+        "name": "Lakeside Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,725",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-12",
+          "end": "2025-08-17"
+        },
+        "pricePerNight": 460,
+        "rating": 4.88,
+        "reviews": 96,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      },
+      "hotel25": {
+        "id": "h025",
+        "name": "Wilderness Camp",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,675",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-22",
+          "end": "2025-08-27"
+        },
+        "pricePerNight": 385,
+        "rating": 4.8,
+        "reviews": 85,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
+      },
+      "hotel28": {
+        "id": "h028",
+        "name": "Minimal Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,650",
+        "capacity": 1,
+        "availableDates": {
+          "start": "2025-06-11",
+          "end": "2025-06-16"
+        },
+        "pricePerNight": 320,
+        "rating": 4.82,
+        "reviews": 54,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      },
+      "hotel31": {
+        "id": "h031",
+        "name": "Polar Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,700",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-21",
+          "end": "2025-06-26"
+        },
+        "pricePerNight": 520,
+        "rating": 4.93,
+        "reviews": 98,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      },
+      "hotel34": {
+        "id": "h034",
+        "name": "Forest Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,690",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-02",
+          "end": "2025-07-07"
+        },
+        "pricePerNight": 410,
+        "rating": 4.87,
+        "reviews": 87,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      },
+      "hotel37": {
+        "id": "h037",
+        "name": "Business Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,645",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-13",
+          "end": "2025-07-18"
+        },
+        "pricePerNight": 350,
+        "rating": 4.79,
+        "reviews": 72,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      },
+      "hotel40": {
+        "id": "h040",
+        "name": "Cave Chambers",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,755",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-23",
+          "end": "2025-07-28"
+        },
+        "pricePerNight": 395,
+        "rating": 4.86,
+        "reviews": 83,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      },
+      "hotel43": {
+        "id": "h043",
+        "name": "Island Oasis",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-02",
+          "end": "2025-08-07"
+        },
+        "pricePerNight": 525,
+        "rating": 4.93,
+        "reviews": 127,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      },
+      "hotel46": {
+        "id": "h046",
+        "name": "Crystal Palace",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,680",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-08-13",
+          "end": "2025-08-18"
+        },
+        "pricePerNight": 495,
+        "rating": 4.94,
+        "reviews": 115,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      },
+      "hotel49": {
+        "id": "h049",
+        "name": "Riverside Lodge",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,705",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-23",
+          "end": "2025-08-28"
+        },
+        "pricePerNight": 445,
+        "rating": 4.88,
+        "reviews": 103,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      }
+    },
+    "2": {
+      "hotel2": {
+        "id": "h002",
+        "name": "Mountain Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,700",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-10",
+          "end": "2025-06-15"
+        },
+        "pricePerNight": 425,
+        "rating": 4.92,
+        "reviews": 89,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      },
+      "hotel5": {
+        "id": "h005",
+        "name": "Arctic Ice Hotel",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,690",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-15",
+          "end": "2025-06-20"
+        },
+        "pricePerNight": 520,
+        "rating": 4.95,
+        "reviews": 124,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      },
+      "hotel8": {
+        "id": "h008",
+        "name": "Cave Sanctuary",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,665",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-18",
+          "end": "2025-06-23"
+        },
+        "pricePerNight": 390,
+        "rating": 4.83,
+        "reviews": 77,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      },
+      "hotel11": {
+        "id": "h011",
+        "name": "Executive Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,730",
+        "capacity": 1,
+        "availableDates": {
+          "start": "2025-07-01",
+          "end": "2025-07-06"
+        },
+        "pricePerNight": 295,
+        "rating": 4.79,
+        "reviews": 88,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      },
+      "hotel14": {
+        "id": "h014",
+        "name": "Island Bungalow",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,720",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-07-12",
+          "end": "2025-07-17"
+        },
+        "pricePerNight": 330,
+        "rating": 4.81,
+        "reviews": 102,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      },
+      "hotel17": {
+        "id": "h017",
+        "name": "Forest Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,678",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-22",
+          "end": "2025-07-27"
+        },
+        "pricePerNight": 375,
+        "rating": 4.84,
+        "reviews": 94,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      },
+      "hotel20": {
+        "id": "h020",
+        "name": "Snow Palace",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,705",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-08-05",
+          "end": "2025-08-10"
+        },
+        "pricePerNight": 435,
+        "rating": 4.94,
+        "reviews": 132,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      },
+      "hotel23": {
+        "id": "h023",
+        "name": "Crystal Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,760",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-15",
+          "end": "2025-08-20"
+        },
+        "pricePerNight": 550,
+        "rating": 4.97,
+        "reviews": 167,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      },
+      "hotel26": {
+        "id": "h026",
+        "name": "Nomad Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,735",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-25",
+          "end": "2025-08-30"
+        },
+        "pricePerNight": 320,
+        "rating": 4.74,
+        "reviews": 69,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      },
+      "hotel29": {
+        "id": "h029",
+        "name": "Enchanted Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,680",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-14",
+          "end": "2025-06-19"
+        },
+        "pricePerNight": 375,
+        "rating": 4.85,
+        "reviews": 89,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      },
+      "hotel32": {
+        "id": "h032",
+        "name": "Arctic Space",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,665",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-24",
+          "end": "2025-06-29"
+        },
+        "pricePerNight": 280,
+        "rating": 4.76,
+        "reviews": 65,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      },
+      "hotel35": {
+        "id": "h035",
+        "name": "Cave Palace",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,745",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-06",
+          "end": "2025-07-11"
+        },
+        "pricePerNight": 420,
+        "rating": 4.88,
+        "reviews": 95,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      },
+      "hotel38": {
+        "id": "h038",
+        "name": "Dreamy Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,730",
+        "capacity": 7,
+        "availableDates": {
+          "start": "2025-07-16",
+          "end": "2025-07-21"
+        },
+        "pricePerNight": 510,
+        "rating": 4.94,
+        "reviews": 118,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      },
+      "hotel41": {
+        "id": "h041",
+        "name": "Tundra Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,715",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-26",
+          "end": "2025-07-31"
+        },
+        "pricePerNight": 465,
+        "rating": 4.91,
+        "reviews": 106,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      },
+      "hotel44": {
+        "id": "h044",
+        "name": "Mountain Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,670",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-06",
+          "end": "2025-08-11"
+        },
+        "pricePerNight": 425,
+        "rating": 4.89,
+        "reviews": 92,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      },
+      "hotel47": {
+        "id": "h047",
+        "name": "Pro Cave Hub",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,740",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-08-16",
+          "end": "2025-08-21"
+        },
+        "pricePerNight": 295,
+        "rating": 4.75,
+        "reviews": 67,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      },
+      "hotel50": {
+        "id": "h050",
+        "name": "Cave Fortress",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,765",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-26",
+          "end": "2025-08-31"
+        },
+        "pricePerNight": 385,
+        "rating": 4.84,
+        "reviews": 79,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      }
+    },
+    "3": {
+      "hotel3": {
+        "id": "h003",
+        "name": "Mystical Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,645",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-05",
+          "end": "2025-06-10"
+        },
+        "pricePerNight": 290,
+        "rating": 4.78,
+        "reviews": 63,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      },
+      "hotel6": {
+        "id": "h006",
+        "name": "Modern Cabin Loft",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,675",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-12",
+          "end": "2025-06-17"
+        },
+        "pricePerNight": 445,
+        "rating": 4.89,
+        "reviews": 156,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      },
+      "hotel9": {
+        "id": "h009",
+        "name": "Private Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,695",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-06-25",
+          "end": "2025-06-30"
+        },
+        "pricePerNight": 480,
+        "rating": 4.91,
+        "reviews": 84,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      },
+      "hotel12": {
+        "id": "h012",
+        "name": "Log Cabin Retreat",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-05",
+          "end": "2025-07-10"
+        },
+        "pricePerNight": 410,
+        "rating": 4.88,
+        "reviews": 93,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      },
+      "hotel15": {
+        "id": "h015",
+        "name": "Aurora Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,670",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-15",
+          "end": "2025-07-20"
+        },
+        "pricePerNight": 420,
+        "rating": 4.93,
+        "reviews": 115,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      },
+      "hotel18": {
+        "id": "h018",
+        "name": "Limestone Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,740",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-25",
+          "end": "2025-07-30"
+        },
+        "pricePerNight": 310,
+        "rating": 4.77,
+        "reviews": 68,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      },
+      "hotel21": {
+        "id": "h021",
+        "name": "Tech Island Hub",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,715",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-08",
+          "end": "2025-08-13"
+        },
+        "pricePerNight": 490,
+        "rating": 4.96,
+        "reviews": 145,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      },
+      "hotel24": {
+        "id": "h024",
+        "name": "Tropical Haven",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-18",
+          "end": "2025-08-23"
+        },
+        "pricePerNight": 405,
+        "rating": 4.82,
+        "reviews": 73,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      },
+      "hotel27": {
+        "id": "h027",
+        "name": "Island Sanctuary",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,640",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-06-03",
+          "end": "2025-06-08"
+        },
+        "pricePerNight": 450,
+        "rating": 4.89,
+        "reviews": 76,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      },
+      "hotel30": {
+        "id": "h030",
+        "name": "Alpine Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,720",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-06-17",
+          "end": "2025-06-22"
+        },
+        "pricePerNight": 390,
+        "rating": 4.91,
+        "reviews": 112,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      },
+      "hotel33": {
+        "id": "h033",
+        "name": "Paradise Villa",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,710",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-06-28",
+          "end": "2025-07-03"
+        },
+        "pricePerNight": 580,
+        "rating": 4.95,
+        "reviews": 134,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      },
+      "hotel36": {
+        "id": "h036",
+        "name": "Arctic Dome",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,675",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-09",
+          "end": "2025-07-14"
+        },
+        "pricePerNight": 480,
+        "rating": 4.92,
+        "reviews": 101,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      },
+      "hotel39": {
+        "id": "h039",
+        "name": "Woodland Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,695",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-07-19",
+          "end": "2025-07-24"
+        },
+        "pricePerNight": 380,
+        "rating": 4.83,
+        "reviews": 91,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      },
+      "hotel42": {
+        "id": "h042",
+        "name": "Innovation Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,660",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-29",
+          "end": "2025-08-03"
+        },
+        "pricePerNight": 310,
+        "rating": 4.77,
+        "reviews": 58,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      },
+      "hotel45": {
+        "id": "h045",
+        "name": "Sacred Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,750",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-09",
+          "end": "2025-08-14"
+        },
+        "pricePerNight": 360,
+        "rating": 4.81,
+        "reviews": 74,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      },
+      "hotel48": {
+        "id": "h048",
+        "name": "Sunset Paradise",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,690",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-08-19",
+          "end": "2025-08-24"
+        },
+        "pricePerNight": 560,
+        "rating": 4.96,
+        "reviews": 142,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      }
+    }
+  },
+  "hotels_type_location": {
+    "1_1": {
+      "hotel1": {
+        "id": "h001",
+        "name": "Island City Views",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,669",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-02",
+          "end": "2025-06-07"
+        },
+        "pricePerNight": 360,
+        "rating": 4.87,
+        "reviews": 71,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      },
+      "hotel4": {
+        "id": "h004",
+        "name": "Tropical Villa",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,680",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-06-08",
+          "end": "2025-06-13"
+        },
+        "pricePerNight": 315,
+        "rating": 4.85,
+        "reviews": 92,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      },
+      "hotel19": {
+        "id": "h019",
+        "name": "Luxury Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,695",
+        "capacity": 7,
+        "availableDates": {
+          "start": "2025-08-01",
+          "end": "2025-08-06"
+        },
+        "pricePerNight": 395,
+        "rating": 4.9,
+        "reviews": 108,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      },
+      "hotel37": {
+        "id": "h037",
+        "name": "Business Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,645",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-13",
+          "end": "2025-07-18"
+        },
+        "pricePerNight": 350,
+        "rating": 4.79,
+        "reviews": 72,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      },
+      "hotel43": {
+        "id": "h043",
+        "name": "Island Oasis",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-02",
+          "end": "2025-08-07"
+        },
+        "pricePerNight": 525,
+        "rating": 4.93,
+        "reviews": 127,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      }
+    },
+    "2_2": {
+      "hotel2": {
+        "id": "h002",
+        "name": "Mountain Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,700",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-10",
+          "end": "2025-06-15"
+        },
+        "pricePerNight": 425,
+        "rating": 4.92,
+        "reviews": 89,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      },
+      "hotel17": {
+        "id": "h017",
+        "name": "Forest Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,678",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-22",
+          "end": "2025-07-27"
+        },
+        "pricePerNight": 375,
+        "rating": 4.84,
+        "reviews": 94,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      },
+      "hotel26": {
+        "id": "h026",
+        "name": "Nomad Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,735",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-25",
+          "end": "2025-08-30"
+        },
+        "pricePerNight": 320,
+        "rating": 4.74,
+        "reviews": 69,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      },
+      "hotel44": {
+        "id": "h044",
+        "name": "Mountain Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,670",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-06",
+          "end": "2025-08-11"
+        },
+        "pricePerNight": 425,
+        "rating": 4.89,
+        "reviews": 92,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      }
+    },
+    "3_3": {
+      "hotel3": {
+        "id": "h003",
+        "name": "Mystical Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,645",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-05",
+          "end": "2025-06-10"
+        },
+        "pricePerNight": 290,
+        "rating": 4.78,
+        "reviews": 63,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      },
+      "hotel18": {
+        "id": "h018",
+        "name": "Limestone Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,740",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-25",
+          "end": "2025-07-30"
+        },
+        "pricePerNight": 310,
+        "rating": 4.77,
+        "reviews": 68,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      },
+      "hotel45": {
+        "id": "h045",
+        "name": "Sacred Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,750",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-09",
+          "end": "2025-08-14"
+        },
+        "pricePerNight": 360,
+        "rating": 4.81,
+        "reviews": 74,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      }
+    },
+    "4_2": {
+      "hotel5": {
+        "id": "h005",
+        "name": "Arctic Ice Hotel",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,690",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-15",
+          "end": "2025-06-20"
+        },
+        "pricePerNight": 520,
+        "rating": 4.95,
+        "reviews": 124,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      },
+      "hotel20": {
+        "id": "h020",
+        "name": "Snow Palace",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,705",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-08-05",
+          "end": "2025-08-10"
+        },
+        "pricePerNight": 435,
+        "rating": 4.94,
+        "reviews": 132,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      },
+      "hotel32": {
+        "id": "h032",
+        "name": "Arctic Space",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,665",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-06-24",
+          "end": "2025-06-29"
+        },
+        "pricePerNight": 280,
+        "rating": 4.76,
+        "reviews": 65,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      },
+      "hotel41": {
+        "id": "h041",
+        "name": "Tundra Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,715",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-26",
+          "end": "2025-07-31"
+        },
+        "pricePerNight": 465,
+        "rating": 4.91,
+        "reviews": 106,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      }
+    },
+    "2_3": {
+      "hotel6": {
+        "id": "h006",
+        "name": "Modern Cabin Loft",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,675",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-12",
+          "end": "2025-06-17"
+        },
+        "pricePerNight": 445,
+        "rating": 4.89,
+        "reviews": 156,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      },
+      "hotel12": {
+        "id": "h012",
+        "name": "Log Cabin Retreat",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-05",
+          "end": "2025-07-10"
+        },
+        "pricePerNight": 410,
+        "rating": 4.88,
+        "reviews": 93,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      },
+      "hotel30": {
+        "id": "h030",
+        "name": "Alpine Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,720",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-06-17",
+          "end": "2025-06-22"
+        },
+        "pricePerNight": 390,
+        "rating": 4.91,
+        "reviews": 112,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      },
+      "hotel39": {
+        "id": "h039",
+        "name": "Woodland Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,695",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-07-19",
+          "end": "2025-07-24"
+        },
+        "pricePerNight": 380,
+        "rating": 4.83,
+        "reviews": 91,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      },
+      "hotel42": {
+        "id": "h042",
+        "name": "Innovation Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,660",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-29",
+          "end": "2025-08-03"
+        },
+        "pricePerNight": 310,
+        "rating": 4.77,
+        "reviews": 58,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      }
+    },
+    "2_1": {
+      "hotel7": {
+        "id": "h007",
+        "name": "Wooden Hideaway",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,660",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-06-20",
+          "end": "2025-06-25"
+        },
+        "pricePerNight": 275,
+        "rating": 4.72,
+        "reviews": 98,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      },
+      "hotel22": {
+        "id": "h022",
+        "name": "Lakeside Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,725",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-12",
+          "end": "2025-08-17"
+        },
+        "pricePerNight": 460,
+        "rating": 4.88,
+        "reviews": 96,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      },
+      "hotel34": {
+        "id": "h034",
+        "name": "Forest Cabin",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,690",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-02",
+          "end": "2025-07-07"
+        },
+        "pricePerNight": 410,
+        "rating": 4.87,
+        "reviews": 87,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      },
+      "hotel49": {
+        "id": "h049",
+        "name": "Riverside Lodge",
+        "type": {
+          "id": 2,
+          "name": "Cabin"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,705",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-23",
+          "end": "2025-08-28"
+        },
+        "pricePerNight": 445,
+        "rating": 4.88,
+        "reviews": 103,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      }
+    },
+    "3_2": {
+      "hotel8": {
+        "id": "h008",
+        "name": "Cave Sanctuary",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,665",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-18",
+          "end": "2025-06-23"
+        },
+        "pricePerNight": 390,
+        "rating": 4.83,
+        "reviews": 77,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      },
+      "hotel11": {
+        "id": "h011",
+        "name": "Executive Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,730",
+        "capacity": 1,
+        "availableDates": {
+          "start": "2025-07-01",
+          "end": "2025-07-06"
+        },
+        "pricePerNight": 295,
+        "rating": 4.79,
+        "reviews": 88,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      },
+      "hotel23": {
+        "id": "h023",
+        "name": "Crystal Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,760",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-08-15",
+          "end": "2025-08-20"
+        },
+        "pricePerNight": 550,
+        "rating": 4.97,
+        "reviews": 167,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      },
+      "hotel29": {
+        "id": "h029",
+        "name": "Enchanted Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,680",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-06-14",
+          "end": "2025-06-19"
+        },
+        "pricePerNight": 375,
+        "rating": 4.85,
+        "reviews": 89,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      },
+      "hotel35": {
+        "id": "h035",
+        "name": "Cave Palace",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,745",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-07-06",
+          "end": "2025-07-11"
+        },
+        "pricePerNight": 420,
+        "rating": 4.88,
+        "reviews": 95,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      },
+      "hotel47": {
+        "id": "h047",
+        "name": "Pro Cave Hub",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,740",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-08-16",
+          "end": "2025-08-21"
+        },
+        "pricePerNight": 295,
+        "rating": 4.75,
+        "reviews": 67,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      },
+      "hotel50": {
+        "id": "h050",
+        "name": "Cave Fortress",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,765",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-26",
+          "end": "2025-08-31"
+        },
+        "pricePerNight": 385,
+        "rating": 4.84,
+        "reviews": 79,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      }
+    },
+    "1_3": {
+      "hotel9": {
+        "id": "h009",
+        "name": "Private Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,695",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-06-25",
+          "end": "2025-06-30"
+        },
+        "pricePerNight": 480,
+        "rating": 4.91,
+        "reviews": 84,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      },
+      "hotel21": {
+        "id": "h021",
+        "name": "Tech Island Hub",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,715",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-08",
+          "end": "2025-08-13"
+        },
+        "pricePerNight": 490,
+        "rating": 4.96,
+        "reviews": 145,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      },
+      "hotel24": {
+        "id": "h024",
+        "name": "Tropical Haven",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,685",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-08-18",
+          "end": "2025-08-23"
+        },
+        "pricePerNight": 405,
+        "rating": 4.82,
+        "reviews": 73,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      },
+      "hotel27": {
+        "id": "h027",
+        "name": "Island Sanctuary",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,640",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-06-03",
+          "end": "2025-06-08"
+        },
+        "pricePerNight": 450,
+        "rating": 4.89,
+        "reviews": 76,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      },
+      "hotel33": {
+        "id": "h033",
+        "name": "Paradise Villa",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,710",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-06-28",
+          "end": "2025-07-03"
+        },
+        "pricePerNight": 580,
+        "rating": 4.95,
+        "reviews": 134,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      },
+      "hotel48": {
+        "id": "h048",
+        "name": "Sunset Paradise",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,690",
+        "capacity": 8,
+        "availableDates": {
+          "start": "2025-08-19",
+          "end": "2025-08-24"
+        },
+        "pricePerNight": 560,
+        "rating": 4.96,
+        "reviews": 142,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      }
+    },
+    "4_1": {
+      "hotel10": {
+        "id": "h010",
+        "name": "Arctic Igloo",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,710",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-22",
+          "end": "2025-06-27"
+        },
+        "pricePerNight": 340,
+        "rating": 4.76,
+        "reviews": 65,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      },
+      "hotel16": {
+        "id": "h016",
+        "name": "Arctic Studio",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,655",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-18",
+          "end": "2025-07-23"
+        },
+        "pricePerNight": 285,
+        "rating": 4.75,
+        "reviews": 87,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      },
+      "hotel25": {
+        "id": "h025",
+        "name": "Wilderness Camp",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,675",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-08-22",
+          "end": "2025-08-27"
+        },
+        "pricePerNight": 385,
+        "rating": 4.8,
+        "reviews": 85,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
+      },
+      "hotel31": {
+        "id": "h031",
+        "name": "Polar Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,700",
+        "capacity": 3,
+        "availableDates": {
+          "start": "2025-06-21",
+          "end": "2025-06-26"
+        },
+        "pricePerNight": 520,
+        "rating": 4.93,
+        "reviews": 98,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      },
+      "hotel46": {
+        "id": "h046",
+        "name": "Crystal Palace",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,680",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-08-13",
+          "end": "2025-08-18"
+        },
+        "pricePerNight": 495,
+        "rating": 4.94,
+        "reviews": 115,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      }
+    },
+    "3_1": {
+      "hotel13": {
+        "id": "h013",
+        "name": "Ancient Chambers",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,750",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-08",
+          "end": "2025-07-13"
+        },
+        "pricePerNight": 380,
+        "rating": 4.86,
+        "reviews": 79,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      },
+      "hotel28": {
+        "id": "h028",
+        "name": "Minimal Cave",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,650",
+        "capacity": 1,
+        "availableDates": {
+          "start": "2025-06-11",
+          "end": "2025-06-16"
+        },
+        "pricePerNight": 320,
+        "rating": 4.82,
+        "reviews": 54,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      },
+      "hotel40": {
+        "id": "h040",
+        "name": "Cave Chambers",
+        "type": {
+          "id": 3,
+          "name": "Caves"
+        },
+        "location": {
+          "id": 1,
+          "name": "Jakarta"
+        },
+        "distance": "1,755",
+        "capacity": 4,
+        "availableDates": {
+          "start": "2025-07-23",
+          "end": "2025-07-28"
+        },
+        "pricePerNight": 395,
+        "rating": 4.86,
+        "reviews": 83,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      }
+    },
+    "1_2": {
+      "hotel14": {
+        "id": "h014",
+        "name": "Island Bungalow",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,720",
+        "capacity": 5,
+        "availableDates": {
+          "start": "2025-07-12",
+          "end": "2025-07-17"
+        },
+        "pricePerNight": 330,
+        "rating": 4.81,
+        "reviews": 102,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      },
+      "hotel38": {
+        "id": "h038",
+        "name": "Dreamy Island",
+        "type": {
+          "id": 1,
+          "name": "Island"
+        },
+        "location": {
+          "id": 2,
+          "name": "Bandung"
+        },
+        "distance": "1,730",
+        "capacity": 7,
+        "availableDates": {
+          "start": "2025-07-16",
+          "end": "2025-07-21"
+        },
+        "pricePerNight": 510,
+        "rating": 4.94,
+        "reviews": 118,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      }
+    },
+    "4_3": {
+      "hotel15": {
+        "id": "h015",
+        "name": "Aurora Lodge",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,670",
+        "capacity": 6,
+        "availableDates": {
+          "start": "2025-07-15",
+          "end": "2025-07-20"
+        },
+        "pricePerNight": 420,
+        "rating": 4.93,
+        "reviews": 115,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      },
+      "hotel36": {
+        "id": "h036",
+        "name": "Arctic Dome",
+        "type": {
+          "id": 4,
+          "name": "Arctic"
+        },
+        "location": {
+          "id": 3,
+          "name": "Surabaya"
+        },
+        "distance": "1,675",
+        "capacity": 2,
+        "availableDates": {
+          "start": "2025-07-09",
+          "end": "2025-07-14"
+        },
+        "pricePerNight": 480,
+        "rating": 4.92,
+        "reviews": 101,
+        "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      }
     }
   }
 }

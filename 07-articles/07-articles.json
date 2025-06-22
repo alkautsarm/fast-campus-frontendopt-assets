@@ -1,0 +1,34 @@
+{
+  "articles": {
+    "article1": {
+      "id": "art001",
+      "title": "5 Hidden Gems: Unique Accommodations That Will Transform Your Travel Experience",
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+      "content": "Traveling isn't just about reaching your destination; it's about discovering extraordinary places that create lasting memories. From treehouse retreats nestled in tropical canopies to converted lighthouse stays with panoramic ocean views, unique accommodations offer experiences that traditional hotels simply can't match.\n\nImagine waking up in a cave dwelling with natural rock formations as your bedroom walls, or spending the night in a floating cabin gently rocking on pristine lake waters. These unconventional stays provide not just shelter, but stories to tell for years to come.\n\nThe best part? Many of these hidden gems are surprisingly affordable and offer amenities that rival luxury resorts, making them perfect for adventurous travelers seeking authentic experiences."
+    },
+    "article2": {
+      "id": "art002", 
+      "title": "Mountain Retreat Guide: How to Choose the Perfect Cabin for Your Next Getaway",
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg",
+      "content": "Mountain cabins offer the perfect escape from urban chaos, providing tranquility and natural beauty that rejuvenates the soul. When selecting your ideal mountain retreat, consider factors like elevation, accessibility, and available activities.\n\nHigher elevation cabins offer cooler temperatures and stunning vistas, perfect for summer escapes. However, they may require 4WD access during winter months. Look for cabins with fireplaces for cozy evenings and full kitchens for preparing hearty mountain meals.\n\nProximity to hiking trails, fishing spots, and ski resorts can enhance your experience. Many mountain cabins also feature hot tubs or saunas, perfect for relaxing after outdoor adventures. Book early for peak seasons, as the best mountain retreats fill up quickly among nature enthusiasts."
+    },
+    "article3": {
+      "id": "art003",
+      "title": "Urban Island Escapes: Discovering Paradise Within City Limits",
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+      "content": "Who says you need to travel far to find paradise? Urban islands offer the perfect blend of city convenience and tropical tranquility, providing an oasis of calm amidst bustling metropolitan life.\n\nThese unique accommodations, often located on man-made islands or waterfront properties, feature private beaches, marina access, and skyline views that create an unforgettable juxtaposition. Guests can enjoy water sports, fine dining, and spa services while remaining minutes away from business districts and cultural attractions.\n\nMany urban island resorts offer shuttle services to city centers, making them ideal for business travelers who want to unwind after meetings. With world-class amenities and stunning sunset views, these properties prove that paradise isn't always about remote locations – sometimes it's about finding the extraordinary in unexpected places."
+    },
+    "article4": {
+      "id": "art004",
+      "title": "Adventure Underground: A Complete Guide to Cave Accommodation Experiences",
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+      "content": "Cave accommodations represent one of travel's most unique experiences, offering guests the chance to sleep surrounded by millions of years of geological history. These remarkable stays provide natural temperature control, maintaining cool comfort year-round without air conditioning.\n\nModern cave hotels combine primitive charm with luxury amenities, featuring comfortable beds, modern bathrooms, and often spectacular lighting that highlights natural rock formations. The acoustic properties of caves create an incredibly peaceful environment, perfect for deep, restful sleep.\n\nSafety is paramount in cave accommodations, with professional installations ensuring proper ventilation and emergency access. Many cave hotels also offer guided tours, explaining the geological significance and history of their unique locations. For travelers seeking something truly different, cave stays provide an unforgettable connection to Earth's ancient past."
+    },
+    "article5": {
+      "id": "art005",
+      "title": "Sustainable Travel: Eco-Friendly Accommodations Leading the Green Revolution",
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+      "content": "The travel industry is experiencing a green revolution, with eco-friendly accommodations leading the charge toward sustainable tourism. These properties demonstrate that luxury and environmental responsibility can coexist beautifully.\n\nFrom solar-powered cabins and rainwater harvesting systems to organic gardens and waste reduction programs, sustainable accommodations minimize environmental impact while maximizing guest comfort. Many properties partner with local communities, sourcing food from nearby farms and employing local staff.\n\nGuests can enjoy features like natural building materials, energy-efficient lighting, and chemical-free cleaning products. Some properties offer educational programs about local ecosystems and conservation efforts. By choosing eco-friendly accommodations, travelers contribute to environmental preservation while experiencing authentic, responsible hospitality that benefits both destinations and local communities."
+    }
+  }
+}

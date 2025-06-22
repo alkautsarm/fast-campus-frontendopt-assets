@@ -1,0 +1,3914 @@
+{
+  "hotels_detail": {
+    "hotel1": {
+      "id": "h001",
+      "name": "Island City Views",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,669",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-06-02",
+        "end": "2025-06-07",
+        "startEpoch": 1748822400000,
+        "endEpoch": 1749254400000
+      },
+      "pricePerNight": 360,
+      "rating": 4.87,
+      "reviews": [
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-15",
+          "comment": "Amazing views and excellent service throughout stay",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-11-10",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-05",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host001",
+        "name": "Andi Pratama"
+      },
+      "description": "Experience breathtaking city views from this modern island retreat. Perfect for couples seeking luxury and tranquility. Our premium amenities include private balcony, spa services, and world-class dining. Located in the heart of Jakarta with easy access to major attractions while maintaining peaceful atmosphere."
+    },
+    "hotel2": {
+      "id": "h002",
+      "name": "Mountain Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,700",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-06-10",
+        "end": "2025-06-15",
+        "startEpoch": 1749513600000,
+        "endEpoch": 1749945600000
+      },
+      "pricePerNight": 425,
+      "rating": 4.92,
+      "reviews": [
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-18",
+          "comment": "Cozy cabin with amazing mountain views and trails",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-12",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-08",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host002",
+        "name": "Budi Santoso"
+      },
+      "description": "Escape to our cozy mountain cabin nestled in Bandung's hills. Perfect for families and groups seeking adventure and relaxation. Features include fireplace, full kitchen, hiking trails access, and panoramic mountain views. Enjoy cool climate and fresh mountain air year-round."
+    },
+    "hotel3": {
+      "id": "h003",
+      "name": "Mystical Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,645",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-06-05",
+        "end": "2025-06-10",
+        "startEpoch": 1749081600000,
+        "endEpoch": 1749513600000
+      },
+      "pricePerNight": 290,
+      "rating": 4.78,
+      "reviews": [
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-14",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Carlos Garcia",
+          "submitted_date": "2024-11-09",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Sophie Martin",
+          "submitted_date": "2024-11-06",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host003",
+        "name": "Sari Dewi"
+      },
+      "description": "Discover the wonder of underground living in our unique cave accommodation. This mystical retreat offers natural temperature control, stunning rock formations, and complete privacy. Perfect for adventurous travelers seeking an unforgettable experience in Surabaya's hidden gems."
+    },
+    "hotel4": {
+      "id": "h004",
+      "name": "Tropical Villa",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,680",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-06-08",
+        "end": "2025-06-13",
+        "startEpoch": 1749340800000,
+        "endEpoch": 1749772800000
+      },
+      "pricePerNight": 315,
+      "rating": 4.85,
+      "reviews": [
+        {
+          "name": "Robert Taylor",
+          "submitted_date": "2024-11-16",
+          "comment": "Spacious villa with great pool and garden",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Anna Kowalski",
+          "submitted_date": "2024-11-11",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Hassan Ahmed",
+          "submitted_date": "2024-11-07",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host004",
+        "name": "Indira Putri"
+      },
+      "description": "Luxurious tropical villa offering spacious accommodation for large families and groups. Features private pool, tropical garden, fully equipped kitchen, and multiple bedrooms. Experience island living in Jakarta with modern amenities and traditional Indonesian hospitality."
+    },
+    "hotel5": {
+      "id": "h005",
+      "name": "Arctic Ice Hotel",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,690",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-06-15",
+        "end": "2025-06-20",
+        "startEpoch": 1749945600000,
+        "endEpoch": 1750377600000
+      },
+      "pricePerNight": 520,
+      "rating": 4.95,
+      "reviews": [
+        {
+          "name": "Jennifer Lee",
+          "submitted_date": "2024-11-17",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Marco Rossi",
+          "submitted_date": "2024-11-13",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Amy Chang",
+          "submitted_date": "2024-11-09",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-04",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host005",
+        "name": "Reza Fauzi"
+      },
+      "description": "Experience the ultimate Arctic adventure in our unique ice hotel. Enjoy sub-zero temperatures, ice sculptures, and thermal clothing provided. Perfect for thrill-seekers wanting an unforgettable experience. Located in cool Bandung highlands with heated common areas for comfort."
+    },
+    "hotel6": {
+      "id": "h006",
+      "name": "Modern Cabin Loft",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,675",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-06-12",
+        "end": "2025-06-17",
+        "startEpoch": 1749686400000,
+        "endEpoch": 1750118400000
+      },
+      "pricePerNight": 445,
+      "rating": 4.89,
+      "reviews": [
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-16",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-12",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Samantha Young",
+          "submitted_date": "2024-11-10",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Kevin Brown",
+          "submitted_date": "2024-11-05",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host006",
+        "name": "Maya Kusuma"
+      },
+      "description": "Experience authentic cabin living with panoramic mountain views, hiking trails, and cozy fireplaces. Ideal for adventure seekers and nature lovers wanting comfortable accommodations."
+    },
+    "hotel7": {
+      "id": "h007",
+      "name": "Wooden Hideaway",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,660",
+      "capacity": 5,
+      "availableDates": {
+        "start": "2025-06-20",
+        "end": "2025-06-25",
+        "startEpoch": 1750377600000,
+        "endEpoch": 1750809600000
+      },
+      "pricePerNight": 275,
+      "rating": 4.72,
+      "reviews": [
+        {
+          "name": "Alex Turner",
+          "submitted_date": "2024-11-15",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Jennifer Lee",
+          "submitted_date": "2024-11-06",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Olivia Parker",
+          "submitted_date": "2024-11-02",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host007",
+        "name": "Doni Wijaya"
+      },
+      "description": "Discover tranquility in our beautifully appointed cabin nestled in the mountains. Enjoy fresh air, stunning views, and complete privacy in this perfect wilderness escape."
+    },
+    "hotel8": {
+      "id": "h008",
+      "name": "Cave Sanctuary",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,665",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-06-18",
+        "end": "2025-06-23",
+        "startEpoch": 1750204800000,
+        "endEpoch": 1750636800000
+      },
+      "pricePerNight": 390,
+      "rating": 4.83,
+      "reviews": [
+        {
+          "name": "Jessica Adams",
+          "submitted_date": "2024-11-15",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Anna Kowalski",
+          "submitted_date": "2024-11-02",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Amy Chang",
+          "submitted_date": "2024-10-30",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host008",
+        "name": "Fitri Handayani"
+      },
+      "description": "Experience the magic of cave accommodation with our thoughtfully designed underground spaces. Combines natural wonder with modern comfort for unforgettable stays."
+    },
+    "hotel9": {
+      "id": "h009",
+      "name": "Private Island",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,695",
+      "capacity": 8,
+      "availableDates": {
+        "start": "2025-06-25",
+        "end": "2025-06-30",
+        "startEpoch": 1750809600000,
+        "endEpoch": 1751241600000
+      },
+      "pricePerNight": 480,
+      "rating": 4.91,
+      "reviews": [
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-16",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Jessica Adams",
+          "submitted_date": "2024-11-10",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-05",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host009",
+        "name": "Agus Setiawan"
+      },
+      "description": "Experience paradise on our private island retreat with pristine beaches, crystal-clear waters, and luxury amenities. Perfect for romantic getaways or family vacations seeking tropical bliss."
+    },
+    "hotel10": {
+      "id": "h010",
+      "name": "Arctic Igloo",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,710",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-06-22",
+        "end": "2025-06-27",
+        "startEpoch": 1750550400000,
+        "endEpoch": 1750982400000
+      },
+      "pricePerNight": 340,
+      "rating": 4.76,
+      "reviews": [
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-17",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Hassan Ahmed",
+          "submitted_date": "2024-11-11",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Carlos Garcia",
+          "submitted_date": "2024-11-08",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-02",
+          "comment": "Spacious villa with great pool and garden",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-10-30",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host010",
+        "name": "Nina Purnama"
+      },
+      "description": "Discover the thrill of Arctic living with our specialized cold-climate accommodation. Features thermal heating, winter activities, and stunning snow-covered landscapes."
+    },
+    "hotel11": {
+      "id": "h011",
+      "name": "Executive Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,730",
+      "capacity": 1,
+      "availableDates": {
+        "start": "2025-07-01",
+        "end": "2025-07-06",
+        "startEpoch": 1751328000000,
+        "endEpoch": 1751760000000
+      },
+      "pricePerNight": 295,
+      "rating": 4.79,
+      "reviews": [
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-16",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-08",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-11-07",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-02",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host011",
+        "name": "Eko Prasetyo"
+      },
+      "description": "Stay in our extraordinary cave retreat offering a once-in-a-lifetime experience. Enjoy natural beauty, unique architecture, and the coolness of underground living."
+    },
+    "hotel12": {
+      "id": "h012",
+      "name": "Log Cabin Retreat",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,685",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-07-05",
+        "end": "2025-07-10",
+        "startEpoch": 1751673600000,
+        "endEpoch": 1752105600000
+      },
+      "pricePerNight": 410,
+      "rating": 4.88,
+      "reviews": [
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-17",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-16",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Laura White",
+          "submitted_date": "2024-11-10",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Ryan Moore",
+          "submitted_date": "2024-11-08",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-03",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host012",
+        "name": "Lestari Ningrum"
+      },
+      "description": "Unwind in our charming cabin retreat featuring rustic elegance and modern comfort. Perfect for those seeking adventure during the day and cozy comfort at night."
+    },
+    "hotel13": {
+      "id": "h013",
+      "name": "Ancient Chambers",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,750",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-07-08",
+        "end": "2025-07-13",
+        "startEpoch": 1751932800000,
+        "endEpoch": 1752364800000
+      },
+      "pricePerNight": 380,
+      "rating": 4.86,
+      "reviews": [
+        {
+          "name": "Robert Taylor",
+          "submitted_date": "2024-11-09",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Hassan Ahmed",
+          "submitted_date": "2024-11-07",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-04",
+          "comment": "Amazing views and excellent service throughout stay",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host013",
+        "name": "Hendra Gunawan"
+      },
+      "description": "Explore unique underground accommodations in our naturally climate-controlled cave dwelling. Experience the mystique of cave living with modern amenities and complete privacy."
+    },
+    "hotel14": {
+      "id": "h014",
+      "name": "Island Bungalow",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,720",
+      "capacity": 5,
+      "availableDates": {
+        "start": "2025-07-12",
+        "end": "2025-07-17",
+        "startEpoch": 1752278400000,
+        "endEpoch": 1752710400000
+      },
+      "pricePerNight": 330,
+      "rating": 4.81,
+      "reviews": [
+        {
+          "name": "Jessica Adams",
+          "submitted_date": "2024-11-14",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-07",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Amanda Lewis",
+          "submitted_date": "2024-11-04",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-02",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host014",
+        "name": "Rina Sari"
+      },
+      "description": "Discover island living at its finest with stunning ocean views, water sports, and world-class dining. Our island accommodation offers the perfect escape from city life."
+    },
+    "hotel15": {
+      "id": "h015",
+      "name": "Aurora Lodge",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,670",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-07-15",
+        "end": "2025-07-20",
+        "startEpoch": 1752537600000,
+        "endEpoch": 1752969600000
+      },
+      "pricePerNight": 420,
+      "rating": 4.93,
+      "reviews": [
+        {
+          "name": "Patricia Davis",
+          "submitted_date": "2024-11-17",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-16",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-13",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Robert Taylor",
+          "submitted_date": "2024-11-06",
+          "comment": "Host was very accommodating and friendly",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host015",
+        "name": "Fajar Nugroho"
+      },
+      "description": "Experience ultimate winter luxury in our Arctic lodge. Enjoy ice sculptures, thermal baths, and the magical beauty of frozen landscapes year-round."
+    },
+    "hotel16": {
+      "id": "h016",
+      "name": "Arctic Studio",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,655",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-07-18",
+        "end": "2025-07-23",
+        "startEpoch": 1752796800000,
+        "endEpoch": 1753228800000
+      },
+      "pricePerNight": 285,
+      "rating": 4.75,
+      "reviews": [
+        {
+          "name": "Marco Rossi",
+          "submitted_date": "2024-11-14",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Sophie Martin",
+          "submitted_date": "2024-11-11",
+          "comment": "Breathtaking sunrise views from the room",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-10",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-06",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-05",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host016",
+        "name": "Dewi Lestari"
+      },
+      "description": "Adventure awaits in our Arctic accommodation featuring unique ice architecture and thermal comfort. Perfect for thrill-seekers wanting extraordinary cold-weather experiences."
+    },
+    "hotel17": {
+      "id": "h017",
+      "name": "Forest Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,678",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-07-22",
+        "end": "2025-07-27",
+        "startEpoch": 1753142400000,
+        "endEpoch": 1753574400000
+      },
+      "pricePerNight": 375,
+      "rating": 4.84,
+      "reviews": [
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-15",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-08",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-06",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-10-31",
+          "comment": "Host was very accommodating and friendly",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host017",
+        "name": "Arif Budiman"
+      },
+      "description": "Retreat to our cozy mountain cabin surrounded by nature's beauty. Features rustic charm with modern amenities, perfect for families and couples seeking peaceful mountain getaways."
+    },
+    "hotel18": {
+      "id": "h018",
+      "name": "Limestone Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,740",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-07-25",
+        "end": "2025-07-30",
+        "startEpoch": 1753401600000,
+        "endEpoch": 1753833600000
+      },
+      "pricePerNight": 310,
+      "rating": 4.77,
+      "reviews": [
+        {
+          "name": "Alex Turner",
+          "submitted_date": "2024-11-14",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-11",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Patricia Davis",
+          "submitted_date": "2024-11-10",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Samantha Young",
+          "submitted_date": "2024-11-08",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host018",
+        "name": "Sinta Maharani"
+      },
+      "description": "Discover the wonder of our cave accommodation featuring stunning rock formations and natural temperature control. Perfect for adventurous travelers seeking unique experiences."
+    },
+    "hotel19": {
+      "id": "h019",
+      "name": "Luxury Island",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,695",
+      "capacity": 7,
+      "availableDates": {
+        "start": "2025-08-01",
+        "end": "2025-08-06",
+        "startEpoch": 1754006400000,
+        "endEpoch": 1754438400000
+      },
+      "pricePerNight": 395,
+      "rating": 4.9,
+      "reviews": [
+        {
+          "name": "Kevin Brown",
+          "submitted_date": "2024-11-18",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Amanda Lewis",
+          "submitted_date": "2024-11-16",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-14",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Patricia Davis",
+          "submitted_date": "2024-11-09",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Olivia Parker",
+          "submitted_date": "2024-11-06",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host019",
+        "name": "Bambang Sutrisno"
+      },
+      "description": "Immerse yourself in tropical luxury with our exclusive island resort. Enjoy private beaches, spa services, and unforgettable sunsets in this slice of paradise."
+    },
+    "hotel20": {
+      "id": "h020",
+      "name": "Snow Palace",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,705",
+      "capacity": 5,
+      "availableDates": {
+        "start": "2025-08-05",
+        "end": "2025-08-10",
+        "startEpoch": 1754352000000,
+        "endEpoch": 1754784000000
+      },
+      "pricePerNight": 435,
+      "rating": 4.94,
+      "reviews": [
+        {
+          "name": "Samantha Young",
+          "submitted_date": "2024-11-18",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-05",
+          "comment": "Cozy cabin with amazing mountain views and trails",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Carlos Garcia",
+          "submitted_date": "2024-11-04",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-10-30",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host020",
+        "name": "Wulan Dari"
+      },
+      "description": "Adventure awaits in our Arctic accommodation featuring unique ice architecture and thermal comfort. Perfect for thrill-seekers wanting extraordinary cold-weather experiences."
+    },
+    "hotel21": {
+      "id": "h021",
+      "name": "Tech Island Hub",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,715",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-08-08",
+        "end": "2025-08-13",
+        "startEpoch": 1754611200000,
+        "endEpoch": 1755043200000
+      },
+      "pricePerNight": 490,
+      "rating": 4.96,
+      "reviews": [
+        {
+          "name": "Anna Kowalski",
+          "submitted_date": "2024-11-17",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-11",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-07",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Carlos Garcia",
+          "submitted_date": "2024-10-31",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-10-30",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host021",
+        "name": "Toni Hermawan"
+      },
+      "description": "Experience paradise on our private island retreat with pristine beaches, crystal-clear waters, and luxury amenities. Perfect for romantic getaways or family vacations seeking tropical bliss."
+    },
+    "hotel22": {
+      "id": "h022",
+      "name": "Lakeside Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,725",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-08-12",
+        "end": "2025-08-17",
+        "startEpoch": 1754956800000,
+        "endEpoch": 1755388800000
+      },
+      "pricePerNight": 460,
+      "rating": 4.88,
+      "reviews": [
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-17",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Olivia Parker",
+          "submitted_date": "2024-11-16",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Patricia Davis",
+          "submitted_date": "2024-11-15",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Matthew Clark",
+          "submitted_date": "2024-11-12",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-11-07",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host022",
+        "name": "Lia Permatasari"
+      },
+      "description": "Experience authentic cabin living with panoramic mountain views, hiking trails, and cozy fireplaces. Ideal for adventure seekers and nature lovers wanting comfortable accommodations."
+    },
+    "hotel23": {
+      "id": "h023",
+      "name": "Crystal Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,760",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-08-15",
+        "end": "2025-08-20",
+        "startEpoch": 1755216000000,
+        "endEpoch": 1755648000000
+      },
+      "pricePerNight": 550,
+      "rating": 4.97,
+      "reviews": [
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-11-15",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-09",
+          "comment": "Spacious villa with great pool and garden",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-08",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Laura White",
+          "submitted_date": "2024-11-04",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Amy Chang",
+          "submitted_date": "2024-11-02",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host023",
+        "name": "Rio Firmansyah"
+      },
+      "description": "Stay in our extraordinary cave retreat offering a once-in-a-lifetime experience. Enjoy natural beauty, unique architecture, and the coolness of underground living."
+    },
+    "hotel24": {
+      "id": "h024",
+      "name": "Tropical Haven",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,685",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-08-18",
+        "end": "2025-08-23",
+        "startEpoch": 1755475200000,
+        "endEpoch": 1755907200000
+      },
+      "pricePerNight": 405,
+      "rating": 4.82,
+      "reviews": [
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-17",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Jessica Adams",
+          "submitted_date": "2024-11-13",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Laura White",
+          "submitted_date": "2024-11-09",
+          "comment": "Breathtaking sunrise views from the room",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-10-30",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host024",
+        "name": "Yuni Rahayu"
+      },
+      "description": "Escape to our secluded island paradise featuring luxury villas, pristine nature, and exceptional hospitality. The perfect destination for those seeking tranquility and beauty."
+    },
+    "hotel25": {
+      "id": "h025",
+      "name": "Wilderness Camp",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,675",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-08-22",
+        "end": "2025-08-27",
+        "startEpoch": 1755820800000,
+        "endEpoch": 1756252800000
+      },
+      "pricePerNight": 385,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-09",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Amy Chang",
+          "submitted_date": "2024-11-08",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-06",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Jennifer Lee",
+          "submitted_date": "2024-11-03",
+          "comment": "Host was very accommodating and friendly",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host025",
+        "name": "Dimas Pradipta"
+      },
+      "description": "Embark on an Arctic adventure in our unique cold-weather accommodation. Experience sub-zero luxury with thermal amenities and breathtaking ice formations."
+    },
+    "hotel26": {
+      "id": "h026",
+      "name": "Nomad Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,735",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-08-25",
+        "end": "2025-08-30",
+        "startEpoch": 1756080000000,
+        "endEpoch": 1756512000000
+      },
+      "pricePerNight": 320,
+      "rating": 4.74,
+      "reviews": [
+        {
+          "name": "Sophie Martin",
+          "submitted_date": "2024-11-12",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Marco Rossi",
+          "submitted_date": "2024-11-06",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Anna Kowalski",
+          "submitted_date": "2024-11-02",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Samantha Young",
+          "submitted_date": "2024-10-30",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host026",
+        "name": "Mega Puspitasari"
+      },
+      "description": "Experience authentic cabin living with panoramic mountain views, hiking trails, and cozy fireplaces. Ideal for adventure seekers and nature lovers wanting comfortable accommodations."
+    },
+    "hotel27": {
+      "id": "h027",
+      "name": "Island Sanctuary",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,640",
+      "capacity": 5,
+      "availableDates": {
+        "start": "2025-06-03",
+        "end": "2025-06-08",
+        "startEpoch": 1748908800000,
+        "endEpoch": 1749340800000
+      },
+      "pricePerNight": 450,
+      "rating": 4.89,
+      "reviews": [
+        {
+          "name": "Samantha Young",
+          "submitted_date": "2024-11-07",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-11-06",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Alex Turner",
+          "submitted_date": "2024-11-05",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-03",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-10-30",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host027",
+        "name": "Hadi Kurniawan"
+      },
+      "description": "Immerse yourself in tropical luxury with our exclusive island resort. Enjoy private beaches, spa services, and unforgettable sunsets in this slice of paradise."
+    },
+    "hotel28": {
+      "id": "h028",
+      "name": "Minimal Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,650",
+      "capacity": 1,
+      "availableDates": {
+        "start": "2025-06-11",
+        "end": "2025-06-16",
+        "startEpoch": 1749600000000,
+        "endEpoch": 1750032000000
+      },
+      "pricePerNight": 320,
+      "rating": 4.82,
+      "reviews": [
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-15",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-14",
+          "comment": "Cozy cabin with amazing mountain views and trails",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Jennifer Lee",
+          "submitted_date": "2024-11-04",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Hassan Ahmed",
+          "submitted_date": "2024-10-31",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host028",
+        "name": "Novi Anggraini"
+      },
+      "description": "Experience the magic of cave accommodation with our thoughtfully designed underground spaces. Combines natural wonder with modern comfort for unforgettable stays."
+    },
+    "hotel29": {
+      "id": "h029",
+      "name": "Enchanted Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,680",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-06-14",
+        "end": "2025-06-19",
+        "startEpoch": 1749859200000,
+        "endEpoch": 1750291200000
+      },
+      "pricePerNight": 375,
+      "rating": 4.85,
+      "reviews": [
+        {
+          "name": "Ryan Moore",
+          "submitted_date": "2024-11-12",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-11-07",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Patricia Davis",
+          "submitted_date": "2024-11-05",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host029",
+        "name": "Wahyu Saputra"
+      },
+      "description": "Explore unique underground accommodations in our naturally climate-controlled cave dwelling. Experience the mystique of cave living with modern amenities and complete privacy."
+    },
+    "hotel30": {
+      "id": "h030",
+      "name": "Alpine Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,720",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-06-17",
+        "end": "2025-06-22",
+        "startEpoch": 1750118400000,
+        "endEpoch": 1750550400000
+      },
+      "pricePerNight": 390,
+      "rating": 4.91,
+      "reviews": [
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-18",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-14",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Alex Turner",
+          "submitted_date": "2024-11-12",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-08",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-07",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host030",
+        "name": "Ratna Sari"
+      },
+      "description": "Experience authentic cabin living with panoramic mountain views, hiking trails, and cozy fireplaces. Ideal for adventure seekers and nature lovers wanting comfortable accommodations."
+    },
+    "hotel31": {
+      "id": "h031",
+      "name": "Polar Lodge",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,700",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-06-21",
+        "end": "2025-06-26",
+        "startEpoch": 1750464000000,
+        "endEpoch": 1750896000000
+      },
+      "pricePerNight": 520,
+      "rating": 4.93,
+      "reviews": [
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-17",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-13",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-11",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-04",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host031",
+        "name": "Gilang Ramadhan"
+      },
+      "description": "Experience ultimate winter luxury in our Arctic lodge. Enjoy ice sculptures, thermal baths, and the magical beauty of frozen landscapes year-round."
+    },
+    "hotel32": {
+      "id": "h032",
+      "name": "Arctic Space",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,665",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-06-24",
+        "end": "2025-06-29",
+        "startEpoch": 1750723200000,
+        "endEpoch": 1751155200000
+      },
+      "pricePerNight": 280,
+      "rating": 4.76,
+      "reviews": [
+        {
+          "name": "Patricia Davis",
+          "submitted_date": "2024-11-08",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Olivia Parker",
+          "submitted_date": "2024-11-03",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-10-30",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host032",
+        "name": "Tika Pramesti"
+      },
+      "description": "Adventure awaits in our Arctic accommodation featuring unique ice architecture and thermal comfort. Perfect for thrill-seekers wanting extraordinary cold-weather experiences."
+    },
+    "hotel33": {
+      "id": "h033",
+      "name": "Paradise Villa",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,710",
+      "capacity": 8,
+      "availableDates": {
+        "start": "2025-06-28",
+        "end": "2025-07-03",
+        "startEpoch": 1751068800000,
+        "endEpoch": 1751500800000
+      },
+      "pricePerNight": 580,
+      "rating": 4.95,
+      "reviews": [
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-13",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Jennifer Lee",
+          "submitted_date": "2024-10-31",
+          "comment": "Amazing views and excellent service throughout stay",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Robert Taylor",
+          "submitted_date": "2024-10-30",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host033",
+        "name": "Bayu Setiawan"
+      },
+      "description": "Experience paradise on our private island retreat with pristine beaches, crystal-clear waters, and luxury amenities. Perfect for romantic getaways or family vacations seeking tropical bliss."
+    },
+    "hotel34": {
+      "id": "h034",
+      "name": "Forest Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,690",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-07-02",
+        "end": "2025-07-07",
+        "startEpoch": 1751414400000,
+        "endEpoch": 1751846400000
+      },
+      "pricePerNight": 410,
+      "rating": 4.87,
+      "reviews": [
+        {
+          "name": "David Smith",
+          "submitted_date": "2024-11-13",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Jessica Adams",
+          "submitted_date": "2024-11-12",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-09",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Marco Rossi",
+          "submitted_date": "2024-11-06",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "James Wilson",
+          "submitted_date": "2024-11-04",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host034",
+        "name": "Dina Kartika"
+      },
+      "description": "Experience authentic cabin living with panoramic mountain views, hiking trails, and cozy fireplaces. Ideal for adventure seekers and nature lovers wanting comfortable accommodations."
+    },
+    "hotel35": {
+      "id": "h035",
+      "name": "Cave Palace",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,745",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-07-06",
+        "end": "2025-07-11",
+        "startEpoch": 1751760000000,
+        "endEpoch": 1752192000000
+      },
+      "pricePerNight": 420,
+      "rating": 4.88,
+      "reviews": [
+        {
+          "name": "Hassan Ahmed",
+          "submitted_date": "2024-11-16",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-11-07",
+          "comment": "Spacious villa with great pool and garden",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Olivia Parker",
+          "submitted_date": "2024-11-06",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-01",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-10-30",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host035",
+        "name": "Rudi Hartono"
+      },
+      "description": "Stay in our extraordinary cave retreat offering a once-in-a-lifetime experience. Enjoy natural beauty, unique architecture, and the coolness of underground living."
+    },
+    "hotel36": {
+      "id": "h036",
+      "name": "Arctic Dome",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,675",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-07-09",
+        "end": "2025-07-14",
+        "startEpoch": 1752019200000,
+        "endEpoch": 1752451200000
+      },
+      "pricePerNight": 480,
+      "rating": 4.92,
+      "reviews": [
+        {
+          "name": "Marco Rossi",
+          "submitted_date": "2024-11-02",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-01",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-10-31",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host036",
+        "name": "Santi Wulandari"
+      },
+      "description": "Adventure awaits in our Arctic accommodation featuring unique ice architecture and thermal comfort. Perfect for thrill-seekers wanting extraordinary cold-weather experiences."
+    },
+    "hotel37": {
+      "id": "h037",
+      "name": "Business Island",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,645",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-07-13",
+        "end": "2025-07-18",
+        "startEpoch": 1752364800000,
+        "endEpoch": 1752796800000
+      },
+      "pricePerNight": 350,
+      "rating": 4.79,
+      "reviews": [
+        {
+          "name": "Olivia Parker",
+          "submitted_date": "2024-11-14",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-11-13",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Kevin Brown",
+          "submitted_date": "2024-11-12",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-10-31",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host037",
+        "name": "Yoga Pratama"
+      },
+      "description": "Experience paradise on our private island retreat with pristine beaches, crystal-clear waters, and luxury amenities. Perfect for romantic getaways or family vacations seeking tropical bliss."
+    },
+    "hotel38": {
+      "id": "h038",
+      "name": "Dreamy Island",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,730",
+      "capacity": 7,
+      "availableDates": {
+        "start": "2025-07-16",
+        "end": "2025-07-21",
+        "startEpoch": 1752624000000,
+        "endEpoch": 1753056000000
+      },
+      "pricePerNight": 510,
+      "rating": 4.94,
+      "reviews": [
+        {
+          "name": "Ryan Moore",
+          "submitted_date": "2024-11-11",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Kevin Brown",
+          "submitted_date": "2024-11-07",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-04",
+          "comment": "Host was very accommodating and friendly",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host038",
+        "name": "Mira Safitri"
+      },
+      "description": "Discover island living at its finest with stunning ocean views, water sports, and world-class dining. Our island accommodation offers the perfect escape from city life."
+    },
+    "hotel39": {
+      "id": "h039",
+      "name": "Woodland Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,695",
+      "capacity": 5,
+      "availableDates": {
+        "start": "2025-07-19",
+        "end": "2025-07-24",
+        "startEpoch": 1752883200000,
+        "endEpoch": 1753315200000
+      },
+      "pricePerNight": 380,
+      "rating": 4.83,
+      "reviews": [
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-16",
+          "comment": "Exceptional service and attention to detail",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-13",
+          "comment": "Unique adventure, great for special occasions",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Kevin Brown",
+          "submitted_date": "2024-11-08",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-03",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host039",
+        "name": "Ade Gunawan"
+      },
+      "description": "Discover tranquility in our beautifully appointed cabin nestled in the mountains. Enjoy fresh air, stunning views, and complete privacy in this perfect wilderness escape."
+    },
+    "hotel40": {
+      "id": "h040",
+      "name": "Cave Chambers",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,755",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-07-23",
+        "end": "2025-07-28",
+        "startEpoch": 1753228800000,
+        "endEpoch": 1753660800000
+      },
+      "pricePerNight": 395,
+      "rating": 4.86,
+      "reviews": [
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-18",
+          "comment": "Clean rooms and fantastic breakfast included",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Amy Chang",
+          "submitted_date": "2024-11-17",
+          "comment": "Amazing views and excellent service throughout stay",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-07",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Ryan Moore",
+          "submitted_date": "2024-11-03",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Samantha Young",
+          "submitted_date": "2024-11-01",
+          "comment": "Spacious villa with great pool and garden",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host040",
+        "name": "Putri Maharani"
+      },
+      "description": "Experience the magic of cave accommodation with our thoughtfully designed underground spaces. Combines natural wonder with modern comfort for unforgettable stays."
+    },
+    "hotel41": {
+      "id": "h041",
+      "name": "Tundra Lodge",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,715",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-07-26",
+        "end": "2025-07-31",
+        "startEpoch": 1753488000000,
+        "endEpoch": 1753920000000
+      },
+      "pricePerNight": 465,
+      "rating": 4.91,
+      "reviews": [
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-11-08",
+          "comment": "Host was very accommodating and friendly",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-05",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-04",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Sophie Martin",
+          "submitted_date": "2024-11-02",
+          "comment": "Stunning architecture and comfortable beds",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-01",
+          "comment": "Amazing views and excellent service throughout stay",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host041",
+        "name": "Iman Santoso"
+      },
+      "description": "Embark on an Arctic adventure in our unique cold-weather accommodation. Experience sub-zero luxury with thermal amenities and breathtaking ice formations."
+    },
+    "hotel42": {
+      "id": "h042",
+      "name": "Innovation Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,660",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-07-29",
+        "end": "2025-08-03",
+        "startEpoch": 1753747200000,
+        "endEpoch": 1754179200000
+      },
+      "pricePerNight": 310,
+      "rating": 4.77,
+      "reviews": [
+        {
+          "name": "Sophie Martin",
+          "submitted_date": "2024-11-17",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Marco Rossi",
+          "submitted_date": "2024-11-13",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Amanda Lewis",
+          "submitted_date": "2024-11-03",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-01",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Rachel Green",
+          "submitted_date": "2024-10-30",
+          "comment": "Cozy cabin with amazing mountain views and trails",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host042",
+        "name": "Yuni Kartika"
+      },
+      "description": "Experience authentic cabin living with panoramic mountain views, hiking trails, and cozy fireplaces. Ideal for adventure seekers and nature lovers wanting comfortable accommodations."
+    },
+    "hotel43": {
+      "id": "h043",
+      "name": "Island Oasis",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,685",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-08-02",
+        "end": "2025-08-07",
+        "startEpoch": 1754092800000,
+        "endEpoch": 1754524800000
+      },
+      "pricePerNight": 525,
+      "rating": 4.93,
+      "reviews": [
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-12",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Laura White",
+          "submitted_date": "2024-11-11",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Amanda Lewis",
+          "submitted_date": "2024-11-05",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host043",
+        "name": "Ridho Pratama"
+      },
+      "description": "Immerse yourself in tropical luxury with our exclusive island resort. Enjoy private beaches, spa services, and unforgettable sunsets in this slice of paradise."
+    },
+    "hotel44": {
+      "id": "h044",
+      "name": "Mountain Cabin",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,670",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-08-06",
+        "end": "2025-08-11",
+        "startEpoch": 1754438400000,
+        "endEpoch": 1754870400000
+      },
+      "pricePerNight": 425,
+      "rating": 4.89,
+      "reviews": [
+        {
+          "name": "Anna Kowalski",
+          "submitted_date": "2024-11-17",
+          "comment": "Unique experience with natural cave beauty",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-12",
+          "comment": "Perfect family retreat with great amenities",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-09",
+          "comment": "Excellent facilities and beautiful surroundings",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host044",
+        "name": "Sari Purnama"
+      },
+      "description": "Unwind in our charming cabin retreat featuring rustic elegance and modern comfort. Perfect for those seeking adventure during the day and cozy comfort at night."
+    },
+    "hotel45": {
+      "id": "h045",
+      "name": "Sacred Cave",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,750",
+      "capacity": 3,
+      "availableDates": {
+        "start": "2025-08-09",
+        "end": "2025-08-14",
+        "startEpoch": 1754697600000,
+        "endEpoch": 1755129600000
+      },
+      "pricePerNight": 360,
+      "rating": 4.81,
+      "reviews": [
+        {
+          "name": "Lisa Wong",
+          "submitted_date": "2024-11-17",
+          "comment": "Quiet retreat perfect for relaxation",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Hassan Ahmed",
+          "submitted_date": "2024-11-15",
+          "comment": "Modern amenities in traditional setting",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-11-02",
+          "comment": "Cozy cabin with amazing mountain views and trails",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-10-30",
+          "comment": "Spacious villa with great pool and garden",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host045",
+        "name": "Dedy Kurniawan"
+      },
+      "description": "Explore unique underground accommodations in our naturally climate-controlled cave dwelling. Experience the mystique of cave living with modern amenities and complete privacy."
+    },
+    "hotel46": {
+      "id": "h046",
+      "name": "Crystal Palace",
+      "type": {
+        "id": 4,
+        "name": "Arctic"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,680",
+      "capacity": 5,
+      "availableDates": {
+        "start": "2025-08-13",
+        "end": "2025-08-18",
+        "startEpoch": 1755043200000,
+        "endEpoch": 1755475200000
+      },
+      "pricePerNight": 495,
+      "rating": 4.94,
+      "reviews": [
+        {
+          "name": "Laura White",
+          "submitted_date": "2024-11-11",
+          "comment": "Cozy cabin with amazing mountain views and trails",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-10",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Robert Taylor",
+          "submitted_date": "2024-11-07",
+          "comment": "Incredible ice hotel experience, very unique!",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Sarah Johnson",
+          "submitted_date": "2024-10-30",
+          "comment": "Great location with easy access to attractions",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host046",
+        "name": "Ika Puspita"
+      },
+      "description": "Discover the thrill of Arctic living with our specialized cold-climate accommodation. Features thermal heating, winter activities, and stunning snow-covered landscapes."
+    },
+    "hotel47": {
+      "id": "h047",
+      "name": "Pro Cave Hub",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,740",
+      "capacity": 2,
+      "availableDates": {
+        "start": "2025-08-16",
+        "end": "2025-08-21",
+        "startEpoch": 1755302400000,
+        "endEpoch": 1755734400000
+      },
+      "pricePerNight": 295,
+      "rating": 4.75,
+      "reviews": [
+        {
+          "name": "Alex Turner",
+          "submitted_date": "2024-11-03",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Maria Rodriguez",
+          "submitted_date": "2024-11-01",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Christopher Hall",
+          "submitted_date": "2024-10-31",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 4
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host047",
+        "name": "Ferdi Setiawan"
+      },
+      "description": "Stay in our extraordinary cave retreat offering a once-in-a-lifetime experience. Enjoy natural beauty, unique architecture, and the coolness of underground living."
+    },
+    "hotel48": {
+      "id": "h048",
+      "name": "Sunset Paradise",
+      "type": {
+        "id": 1,
+        "name": "Island"
+      },
+      "location": {
+        "id": 3,
+        "name": "Surabaya",
+        "latitude": -7.2575,
+        "longitude": 112.7521
+      },
+      "distance": "1,690",
+      "capacity": 8,
+      "availableDates": {
+        "start": "2025-08-19",
+        "end": "2025-08-24",
+        "startEpoch": 1755561600000,
+        "endEpoch": 1755993600000
+      },
+      "pricePerNight": 560,
+      "rating": 4.96,
+      "reviews": [
+        {
+          "name": "Alex Turner",
+          "submitted_date": "2024-11-16",
+          "comment": "Perfect romantic getaway with stunning scenery",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Carlos Garcia",
+          "submitted_date": "2024-11-14",
+          "comment": "Amazing views and excellent service throughout stay",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Matthew Clark",
+          "submitted_date": "2024-11-12",
+          "comment": "Peaceful location and very responsive host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-09",
+          "comment": "Clean, comfortable, and great host communication",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host048",
+        "name": "Tari Anggraini"
+      },
+      "description": "Escape to our secluded island paradise featuring luxury villas, pristine nature, and exceptional hospitality. The perfect destination for those seeking tranquility and beauty."
+    },
+    "hotel49": {
+      "id": "h049",
+      "name": "Riverside Lodge",
+      "type": {
+        "id": 2,
+        "name": "Cabin"
+      },
+      "location": {
+        "id": 1,
+        "name": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+      },
+      "distance": "1,705",
+      "capacity": 6,
+      "availableDates": {
+        "start": "2025-08-23",
+        "end": "2025-08-28",
+        "startEpoch": 1755907200000,
+        "endEpoch": 1756339200000
+      },
+      "pricePerNight": 445,
+      "rating": 4.88,
+      "reviews": [
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-16",
+          "comment": "Cool temperature and fascinating cave structure",
+          "ratings": {
+            "cleanliness": 4,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Daniel Kim",
+          "submitted_date": "2024-11-15",
+          "comment": "Cold but amazing! Staff very helpful and caring",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 4
+          }
+        },
+        {
+          "name": "Michael Chen",
+          "submitted_date": "2024-11-06",
+          "comment": "Beautiful tropical setting and excellent host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host049",
+        "name": "Bima Saputra"
+      },
+      "description": "Retreat to our cozy mountain cabin surrounded by nature's beauty. Features rustic charm with modern amenities, perfect for families and couples seeking peaceful mountain getaways."
+    },
+    "hotel50": {
+      "id": "h050",
+      "name": "Cave Fortress",
+      "type": {
+        "id": 3,
+        "name": "Caves"
+      },
+      "location": {
+        "id": 2,
+        "name": "Bandung",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "distance": "1,765",
+      "capacity": 4,
+      "availableDates": {
+        "start": "2025-08-26",
+        "end": "2025-08-31",
+        "startEpoch": 1756166400000,
+        "endEpoch": 1756598400000
+      },
+      "pricePerNight": 385,
+      "rating": 4.84,
+      "reviews": [
+        {
+          "name": "Brandon Scott",
+          "submitted_date": "2024-11-17",
+          "comment": "Amazing underground adventure and great host",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Emma Thompson",
+          "submitted_date": "2024-11-10",
+          "comment": "Perfect for family vacation with kids",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 4,
+            "communication": 5
+          }
+        },
+        {
+          "name": "Thomas Mueller",
+          "submitted_date": "2024-11-04",
+          "comment": "Once in lifetime experience, highly recommend",
+          "ratings": {
+            "cleanliness": 5,
+            "location": 5,
+            "communication": 5
+          }
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg",
+        "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      ],
+      "host": {
+        "id": "host050",
+        "name": "Lina Permata"
+      },
+      "description": "Discover the wonder of our cave accommodation featuring stunning rock formations and natural temperature control. Perfect for adventurous travelers seeking unique experiences."
+    }
+  }
+}

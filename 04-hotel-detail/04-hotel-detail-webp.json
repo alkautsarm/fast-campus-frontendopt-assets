@@ -23,7 +23,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/alberto-castillo-q-mx4mSkK9zeo-unsplash.webp"
     },
     "hotel10": {
       "availableDates": {
@@ -48,7 +48,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.webp"
     },
     "hotel11": {
       "availableDates": {
@@ -73,7 +73,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/hieu-vu-minh-He8-FZl-o10-unsplash.webp"
     },
     "hotel12": {
       "availableDates": {
@@ -98,7 +98,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/jean-philippe-delberghe-Dw67tbZKix0-unsplash.webp"
     },
     "hotel13": {
       "availableDates": {
@@ -123,7 +123,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/jose-losada-Sm8TAus1pGs-unsplash.webp"
     },
     "hotel14": {
       "availableDates": {
@@ -148,7 +148,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/lukasz-szmigiel-jFCViYFYcus-unsplash.webp"
     },
     "hotel15": {
       "availableDates": {
@@ -173,7 +173,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/mathew-schwartz-onOdABjwC0M-unsplash.webp"
     },
     "hotel16": {
       "availableDates": {
@@ -198,7 +198,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/mathias-adam-JKHUw0Xujf8-unsplash.webp"
     },
     "hotel17": {
       "availableDates": {
@@ -223,7 +223,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/mike-benna-SBiVq9eWEtQ-unsplash.webp"
     },
     "hotel18": {
       "availableDates": {
@@ -248,7 +248,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/roberto-nickson-bwIqQ5qQhXs-unsplash.webp"
     },
     "hotel19": {
       "availableDates": {
@@ -273,7 +273,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/roam-in-color-RryFk4n-vOs-unsplash.webp"
     },
     "hotel2": {
       "availableDates": {
@@ -298,7 +298,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/al-ghazali-3KmWk2WC_Z0-unsplash.webp"
     },
     "hotel20": {
       "availableDates": {
@@ -323,7 +323,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/rune-enstad-UXFJ-6Zj27M-unsplash.webp"
     },
     "hotel21": {
       "availableDates": {
@@ -348,7 +348,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/sabri-tuzcu-w8HTBRcsmNo-unsplash.webp"
     },
     "hotel22": {
       "availableDates": {
@@ -373,7 +373,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/sebastian-schuppik-H7xTpvBjJS4-unsplash.webp"
     },
     "hotel23": {
       "availableDates": {
@@ -398,7 +398,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/smartworks-coworking-E7Tzh2TTS6c-unsplash.webp"
     },
     "hotel24": {
       "availableDates": {
@@ -423,7 +423,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/toa-heftiba-FV3GConVSss-unsplash.webp"
     },
     "hotel25": {
       "availableDates": {
@@ -448,7 +448,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/yann-maignan-YhJkERWHFnU-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/yann-maignan-YhJkERWHFnU-unsplash.webp"
     },
     "hotel26": {
       "availableDates": {
@@ -473,7 +473,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/cody-waters-aHmuj58Lqu4-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/cody-waters-aHmuj58Lqu4-unsplash.webp"
     },
     "hotel27": {
       "availableDates": {
@@ -498,7 +498,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/alberto-castillo-q-mx4mSkK9zeo-unsplash.webp"
     },
     "hotel28": {
       "availableDates": {
@@ -523,7 +523,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/al-ghazali-3KmWk2WC_Z0-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/al-ghazali-3KmWk2WC_Z0-unsplash.webp"
     },
     "hotel29": {
       "availableDates": {
@@ -548,7 +548,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/annie-spratt-_iH19KS6e2c-unsplash.webp"
     },
     "hotel3": {
       "availableDates": {
@@ -573,7 +573,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/annie-spratt-_iH19KS6e2c-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/annie-spratt-_iH19KS6e2c-unsplash.webp"
     },
     "hotel30": {
       "availableDates": {
@@ -598,7 +598,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/chastity-cortijo-98WE9hWWjiQ-unsplash.webp"
     },
     "hotel31": {
       "availableDates": {
@@ -623,7 +623,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/christian-mackie-SxBca4GcC9k-unsplash.webp"
     },
     "hotel32": {
       "availableDates": {
@@ -648,7 +648,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/christoph-luig-wNTLxVGT5-o-unsplash.webp"
     },
     "hotel33": {
       "availableDates": {
@@ -673,7 +673,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/chuttersnap-zsODhhtcVeQ-unsplash.webp"
     },
     "hotel34": {
       "availableDates": {
@@ -698,7 +698,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/clark-street-mercantile-vC-GqGbakJo-unsplash.webp"
     },
     "hotel35": {
       "availableDates": {
@@ -723,7 +723,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/crew--3can7MahTA-unsplash.webp"
     },
     "hotel36": {
       "availableDates": {
@@ -748,7 +748,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/francisco-de-legarreta-c-92gDIK7yjfE-unsplash.webp"
     },
     "hotel37": {
       "availableDates": {
@@ -773,7 +773,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/hieu-vu-minh-He8-FZl-o10-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/hieu-vu-minh-He8-FZl-o10-unsplash.webp"
     },
     "hotel38": {
       "availableDates": {
@@ -798,7 +798,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jean-philippe-delberghe-Dw67tbZKix0-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/jean-philippe-delberghe-Dw67tbZKix0-unsplash.webp"
     },
     "hotel39": {
       "availableDates": {
@@ -823,7 +823,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/jose-losada-Sm8TAus1pGs-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/jose-losada-Sm8TAus1pGs-unsplash.webp"
     },
     "hotel4": {
       "availableDates": {
@@ -848,7 +848,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chastity-cortijo-98WE9hWWjiQ-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/chastity-cortijo-98WE9hWWjiQ-unsplash.webp"
     },
     "hotel40": {
       "availableDates": {
@@ -873,7 +873,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/lukasz-szmigiel-jFCViYFYcus-unsplash.webp"
     },
     "hotel41": {
       "availableDates": {
@@ -898,7 +898,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathew-schwartz-onOdABjwC0M-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/mathew-schwartz-onOdABjwC0M-unsplash.webp"
     },
     "hotel42": {
       "availableDates": {
@@ -923,7 +923,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mathias-adam-JKHUw0Xujf8-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/mathias-adam-JKHUw0Xujf8-unsplash.webp"
     },
     "hotel43": {
       "availableDates": {
@@ -948,7 +948,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/mike-benna-SBiVq9eWEtQ-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/mike-benna-SBiVq9eWEtQ-unsplash.webp"
     },
     "hotel44": {
       "availableDates": {
@@ -973,7 +973,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roberto-nickson-bwIqQ5qQhXs-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/roberto-nickson-bwIqQ5qQhXs-unsplash.webp"
     },
     "hotel45": {
       "availableDates": {
@@ -998,7 +998,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/roam-in-color-RryFk4n-vOs-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/roam-in-color-RryFk4n-vOs-unsplash.webp"
     },
     "hotel46": {
       "availableDates": {
@@ -1023,7 +1023,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/rune-enstad-UXFJ-6Zj27M-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/rune-enstad-UXFJ-6Zj27M-unsplash.webp"
     },
     "hotel47": {
       "availableDates": {
@@ -1048,7 +1048,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sabri-tuzcu-w8HTBRcsmNo-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/sabri-tuzcu-w8HTBRcsmNo-unsplash.webp"
     },
     "hotel48": {
       "availableDates": {
@@ -1073,7 +1073,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/sebastian-schuppik-H7xTpvBjJS4-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/sebastian-schuppik-H7xTpvBjJS4-unsplash.webp"
     },
     "hotel49": {
       "availableDates": {
@@ -1098,7 +1098,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/smartworks-coworking-E7Tzh2TTS6c-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/smartworks-coworking-E7Tzh2TTS6c-unsplash.webp"
     },
     "hotel5": {
       "availableDates": {
@@ -1123,7 +1123,7 @@
         "id": 4,
         "name": "Arctic"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christian-mackie-SxBca4GcC9k-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/christian-mackie-SxBca4GcC9k-unsplash.webp"
     },
     "hotel50": {
       "availableDates": {
@@ -1148,7 +1148,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/toa-heftiba-FV3GConVSss-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/toa-heftiba-FV3GConVSss-unsplash.webp"
     },
     "hotel6": {
       "availableDates": {
@@ -1173,7 +1173,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/christoph-luig-wNTLxVGT5-o-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/christoph-luig-wNTLxVGT5-o-unsplash.webp"
     },
     "hotel7": {
       "availableDates": {
@@ -1198,7 +1198,7 @@
         "id": 2,
         "name": "Cabin"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/chuttersnap-zsODhhtcVeQ-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/chuttersnap-zsODhhtcVeQ-unsplash.webp"
     },
     "hotel8": {
       "availableDates": {
@@ -1223,7 +1223,7 @@
         "id": 3,
         "name": "Caves"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/clark-street-mercantile-vC-GqGbakJo-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/clark-street-mercantile-vC-GqGbakJo-unsplash.webp"
     },
     "hotel9": {
       "availableDates": {
@@ -1248,7 +1248,7 @@
         "id": 1,
         "name": "Island"
       },
-      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/03-hotel-filter/hotel-images-compressed/crew--3can7MahTA-unsplash.jpg"
+      "imageUrlWebp": "https://raw.githubusercontent.com/alkautsarm/fast-campus-frontendopt-assets/refs/heads/main/04-hotel-detail/hotel-images-webp/crew--3can7MahTA-unsplash.webp"
     }
   },
   "hotels_detail": {
